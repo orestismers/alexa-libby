@@ -71,6 +71,7 @@ export async function handleFindMovieIntent(req) {
   return req.responseBuilder
     .speak(responseText)
     .reprompt(responseText)
+    .withShouldEndSession(false)
     .withApiResponse(buildReprompt(movieSearch, PROVIDER_TYPE.MOVIES))
     .getResponse();
 }
