@@ -1,4 +1,4 @@
-import tmpl from '~/lib/tmpl.js';
+import tmpl from '../lib/tmpl';
 
 /** ${0: Show Name} */
 export const ADD_SHOW = tmpl`Add ${0} to your list?`;

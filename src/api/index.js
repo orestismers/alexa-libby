@@ -1,7 +1,7 @@
-import couchpotato from './couchpotato.js';
-import radarr from './radarr.js';
-import sickbeard from './sickbeard.js';
-import sonarr from './sonarr.js';
+import couchpotato from './couchpotato';
+import radarr from './radarr';
+import sickbeard from './sickbeard';
+import sonarr from './sonarr';
 
 export default {
   couchpotato,

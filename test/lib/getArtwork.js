@@ -2,7 +2,7 @@ import assert from 'assert';
 import config from 'config';
 import sinon from 'sinon';
 
-import getArtwork, {API} from '~/lib/getArtwork.js';
+import getArtwork, {API} from '../../src/lib/getArtwork';
 
 describe('lib.getArtwork', () => {
   let apiStubs, configStub, sandbox;

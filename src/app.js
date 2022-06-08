@@ -1,8 +1,8 @@
 import Alexa from 'alexa-app';
 
-import * as generalHandlers from '~/handlers/general.js';
-import * as movieHandlers from '~/handlers/movies.js';
-import * as showHandlers from '~/handlers/shows.js';
+import * as generalHandlers from './handlers/general';
+import * as movieHandlers from './handlers/movies';
+import * as showHandlers from './handlers/shows';
 
 const app = new Alexa.app('libby');
 

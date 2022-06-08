@@ -1,7 +1,7 @@
 import config from 'config';
 import path from 'path';
 
-import api from '~/api/index.js';
+import api from './index';
 
 export const PROVIDER_TYPE = {
   MOVIES: 'movies',

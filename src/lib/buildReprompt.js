@@ -1,7 +1,7 @@
-import {PROVIDER_TYPE} from '~/api/getProvider.js';
+import {PROVIDER_TYPE} from '../api/getProvider';
 
-import * as movieResponses from '~/responses/movies.js';
-import * as showResponses from '~/responses/shows.js';
+import * as movieResponses from '../responses/movies';
+import * as showResponses from '../responses/shows';
 
 export default function buildReprompt(searchResults = [], providerType) {
   const [topResult, nextResult] = searchResults.slice();

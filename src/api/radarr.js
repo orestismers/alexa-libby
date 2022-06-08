@@ -1,8 +1,8 @@
 import config from 'config';
 import RadarrAPI from 'sonarr-api'; // Radarr API is identical to radarr for now
 
-import serverConfig from '~/api/config.js';
-import {PROVIDER_TYPE} from '~/api/getProvider.js';
+import serverConfig from './config';
+import {PROVIDER_TYPE} from './getProvider';
 
 /**
  * @typedef {Object} MediaResult

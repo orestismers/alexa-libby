@@ -1,9 +1,9 @@
-import getProvider, {PROVIDER_TYPE} from '~/api/getProvider.js';
+import getProvider, {PROVIDER_TYPE} from '../api/getProvider';
 
-import buildCard from '~/lib/buildCard.js';
-import buildReprompt from '~/lib/buildReprompt.js';
-import getArtwork from '~/lib/getArtwork.js';
-import parseDate from '~/lib/parseDate.js';
+import buildCard from '../lib/buildCard';
+import buildReprompt from '../lib/buildReprompt';
+import getArtwork from '../lib/getArtwork';
+import parseDate from '../lib/parseDate';
 
 import {
   ADD_NOT_FOUND,
@@ -11,7 +11,7 @@ import {
   ALREADY_WANTED,
   NO_MOVIE_FOUND,
   NO_MOVIE_SLOT
-} from '~/responses/movies.js';
+} from '../responses/movies';
 
 export async function handleFindMovieIntent(req, resp) {
   const movieName = req.slot('movieName');

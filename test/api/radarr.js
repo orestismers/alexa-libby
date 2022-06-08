@@ -3,8 +3,8 @@ import config from 'config';
 import merge from 'deepmerge';
 import sinon from 'sinon';
 
-import * as serverConfig from '~/api/config.js';
-import * as radarr from '~/api/radarr.js';
+import * as serverConfig from '../api/config';
+import * as radarr from '../api/radarr';
 
 /* eslint-disable max-len */
 const sampleMoviesResponse = [

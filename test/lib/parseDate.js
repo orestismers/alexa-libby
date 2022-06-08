@@ -1,6 +1,6 @@
 import assert from 'assert';
 
-import parseDate from '~/lib/parseDate.js';
+import parseDate from '../../src/lib/parseDate';
 
 describe('lib.parseDate', () => {
   it('should return null if you dont give it a date string', () => {

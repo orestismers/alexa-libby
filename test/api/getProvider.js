@@ -4,7 +4,7 @@ import CouchPotato from 'couchpotato-api';
 import SickBeard from 'node-sickbeard';
 import sinon from 'sinon';
 
-import getProvider, {PROVIDER_TYPE} from '~/api/getProvider.js';
+import getProvider, {PROVIDER_TYPE} from '../api/getProvider';
 
 describe('api.getProvider', () => {
   let getConfig, sandbox;

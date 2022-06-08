@@ -1,5 +1,5 @@
 import CouchPotatoAPI from 'couchpotato-api';
-import serverConfig from '~/api/config.js';
+import serverConfig from './config';
 
 /**
  * @typedef {Object} MovieResult

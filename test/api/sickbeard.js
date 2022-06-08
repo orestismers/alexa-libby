@@ -1,8 +1,8 @@
 import assert from 'assert';
 import sinon from 'sinon';
 
-import * as serverConfig from '~/api/config.js';
-import * as sickbeard from '~/api/sickbeard.js';
+import * as serverConfig from '../api/config';
+import * as sickbeard from '../api/sickbeard';
 
 const sampleShowsResponse = {
   data: {

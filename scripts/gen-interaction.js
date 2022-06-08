@@ -2,7 +2,7 @@ const utterances = require('alexa-utterances');
 const fs = require('fs-extra');
 const path = require('path');
 
-const dictionary = require('../models/dictionary.js');
+const dictionary = require('../models/dictionary');
 const schemas = require('../models/schemas');
 
 const outputDir = path.resolve(process.env.PWD, 'interaction_model');

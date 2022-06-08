@@ -3,8 +3,8 @@ import config from 'config';
 import merge from 'deepmerge';
 import sinon from 'sinon';
 
-import * as serverConfig from '~/api/config.js';
-import * as sonarr from '~/api/sonarr.js';
+import * as serverConfig from '../api/config';
+import * as sonarr from '../api/sonarr';
 
 /* eslint-disable max-len */
 const sampleShowsResponse = [

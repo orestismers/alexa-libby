@@ -1,8 +1,8 @@
 import assert from 'assert';
 import sinon from 'sinon';
 
-import * as serverConfig from '~/api/config.js';
-import * as couchpotato from '~/api/couchpotato.js';
+import * as serverConfig from '../api/config';
+import * as couchpotato from '../api/couchpotato';
 
 /* eslint-disable max-len */
 const sampleMoviesResponse = {

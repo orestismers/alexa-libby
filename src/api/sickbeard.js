@@ -1,5 +1,5 @@
 import SickBeardAPI from 'node-sickbeard';
-import serverConfig from '~/api/config.js';
+import serverConfig from './config';
 
 /**
  * @typedef {Object} MediaResult

@@ -3,10 +3,10 @@ import assert from 'assert';
 import merge from 'deepmerge';
 import sinon from 'sinon';
 
-import * as provider from '~/api/getProvider.js';
+import * as provider from '../api/getProvider';
 
-import * as getArtwork from '~/lib/getArtwork.js';
-import getResponseSSML from '~/lib/getResponseSSML.js';
+import * as getArtwork from '../../src/lib/getArtwork'
+import getResponseSSML from '../../src/lib/getResponseSSML';
 
 import {
   handleLaunchIntent,
@@ -14,13 +14,13 @@ import {
   handleNoIntent,
   handleCancelIntent,
   handleHelpIntent
-} from '~/handlers/general.js';
+} from '../../src/handlers/general';
 
 import {
   CANCEL_RESPONSE,
   HELP_RESPONSE,
   WELCOME_DESCRIPTION
-} from '~/responses/general.js';
+} from '../../src/responses/general';
 
 const sampleSession = {
   version: '1.0',

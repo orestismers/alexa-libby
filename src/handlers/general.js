@@ -1,14 +1,14 @@
-import getProvider, {PROVIDER_TYPE} from '~/api/getProvider.js';
+import getProvider, {PROVIDER_TYPE} from '../api/getProvider';
 
-import buildCard from '~/lib/buildCard.js';
-import buildReprompt from '~/lib/buildReprompt.js';
-import getArtwork from '~/lib/getArtwork.js';
+import buildCard from '../lib/buildCard';
+import buildReprompt from '../lib/buildReprompt';
+import getArtwork from '../lib/getArtwork';
 
 import {
   CANCEL_RESPONSE,
   HELP_RESPONSE,
   WELCOME_DESCRIPTION
-} from '~/responses/general.js';
+} from '../responses/general';
 
 export function handleLaunchIntent(req, resp) {
   return Promise.resolve(

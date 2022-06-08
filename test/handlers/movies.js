@@ -3,15 +3,15 @@ import assert from 'assert';
 import merge from 'deepmerge';
 import sinon from 'sinon';
 
-import * as getProvider from '~/api/getProvider.js';
+import * as getProvider from '../../src/api/getProvider';
 
-import * as getArtwork from '~/lib/getArtwork.js';
-import getResponseSSML from '~/lib/getResponseSSML.js';
+import * as getArtwork from '../../src/lib/getArtwork';
+import getResponseSSML from '../../src/lib/getResponseSSML';
 
 import {
   handleAddMovieIntent,
   handleFindMovieIntent
-} from '~/handlers/movies.js';
+} from '../../src/handlers/movies';
 
 import {
   ADD_PROMPT,
@@ -19,7 +19,7 @@ import {
   ALREADY_WANTED,
   NO_MOVIE_FOUND,
   NO_MOVIE_SLOT
-} from '~/responses/movies.js';
+} from '../../src/responses/movies';
 
 const sampleSession = {
   version: '1.0',

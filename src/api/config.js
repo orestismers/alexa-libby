@@ -1,7 +1,7 @@
 import config from 'config';
 import url from 'url';
 
-import {PROVIDER_TYPE} from '~/api/getProvider.js';
+import {PROVIDER_TYPE} from './getProvider';
 
 /**
  * Returns a config object for a given API provider.

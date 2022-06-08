@@ -1,15 +1,15 @@
-import getProvider, {PROVIDER_TYPE} from '~/api/getProvider.js';
+import getProvider, {PROVIDER_TYPE} from '../api/getProvider';
 
-import buildCard from '~/lib/buildCard.js';
-import buildReprompt from '~/lib/buildReprompt.js';
-import getArtwork from '~/lib/getArtwork.js';
+import buildCard from '../lib/buildCard';
+import buildReprompt from '../lib/buildReprompt';
+import getArtwork from '../lib/getArtwork';
 
 import {
   ADD_SHOW,
   ALREADY_WANTED,
   NO_SHOW_FOUND,
   NO_SHOW_QUEUED
-} from '~/responses/shows.js';
+} from '../responses/shows';
 
 export async function handleFindShowIntent(req, resp) {
   const api = getProvider(PROVIDER_TYPE.SHOWS);

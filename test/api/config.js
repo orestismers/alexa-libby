@@ -2,7 +2,7 @@ import assert from 'assert';
 import config from 'config';
 import sinon from 'sinon';
 
-import serverConfig from '~/api/config.js';
+import serverConfig from '../api/config';
 
 describe('api.config', () => {
   let sandbox;

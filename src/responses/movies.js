@@ -1,4 +1,4 @@
-import tmpl from '~/lib/tmpl.js';
+import tmpl from '../lib/tmpl';
 
 /**
  * This module contains functions to help standardize the responses used to send back to ASK. The
