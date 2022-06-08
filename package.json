@@ -23,7 +23,8 @@
     "url": "https://github.com/josephschmitt/alexa-libby.git"
   },
   "dependencies": {
-    "alexa-app": "^4.0.1",
+    "alexa-app": "^4.2.3",
+    "ask-sdk": "^2.12.1",
     "config": "^1.26.1",
     "couchpotato-api": "^0.1.0",
     "node-sickbeard": "0.0.1",

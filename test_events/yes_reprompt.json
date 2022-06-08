@@ -8,580 +8,3355 @@
       "promptData": {
         "searchResults": [
           {
-            "rating": {
-              "imdb": [
-                6.9,
-                992
-              ]
-            },
-            "tmdb_id": 321258,
-            "actor_roles": {
-              "Diana Hardcastle": "Mrs. Heelshire",
-              "Rupert Evans": "Malcolm",
-              "James Russell": "James",
-              "Jim Norton": "Mr. Heelshire",
-              "Lauren Cohan": "Greta"
-            },
-            "via_imdb": true,
-            "via_tmdb": true,
-            "titles": [
-              "The Boy",
-              "The Inhabitant",
-              "?? ?????"
-            ],
-            "imdb": "tt3882082",
-            "year": 2016,
-            "images": {
-              "poster": [
-                "https://image.tmdb.org/t/p/w154/lISBWF6UUF3cQPcoLE8pMxnyJty.jpg",
-                "http://ia.media-imdb.com/images/M/MV5BMTc1MjcxNzcwMV5BMl5BanBnXkFtZTgwMTE0NTE2NzE@._V1_.jpg",
-                "http://ia.media-imdb.com/images/M/MV5BMTQ1NzAwNTg1M15BMl5BanBnXkFtZTgwNDQwOTQ0NzE@._V1_SX300.jpg"
-              ],
-              "extra_thumbs": [],
-              "poster_original": [
-                "https://image.tmdb.org/t/p/original/lISBWF6UUF3cQPcoLE8pMxnyJty.jpg"
-              ],
-              "actors": {
-                "Diana Hardcastle": "https://image.tmdb.org/t/p/w185/hl58zPrWbo1mfatgVxEnGsKGZ1b.jpg",
-                "Rupert Evans": "https://image.tmdb.org/t/p/w185/AuPOKHD18bE2jKXONvrMLGVQ744.jpg",
-                "Jim Norton": "https://image.tmdb.org/t/p/w185/lndFtmSwtCzoeWkgjqJBqVRKGk2.jpg",
-                "Lauren Cohan": "https://image.tmdb.org/t/p/w185/5W4AV3ZXn38NlEMqPy9QPjwRRz8.jpg"
-              },
-              "backdrop_original": [
-                "https://image.tmdb.org/t/p/original/aOvgn3E5OjJDepApd1WtS2doqMF.jpg"
-              ],
-              "backdrop": [
-                "https://image.tmdb.org/t/p/w1280/aOvgn3E5OjJDepApd1WtS2doqMF.jpg"
-              ]
-            },
-            "plot": "A nanny, working for a family whose son has just passed away, finds herself put in charge of caring for a lifelike doll that the couple treat as a real child.",
-            "genres": [
-              "Horror",
-              "Thriller"
-            ],
-            "in_library": false,
-            "released": "2016-01-22",
-            "mpaa": "PG-13",
-            "original_title": "The Boy",
-            "directors": [
-              "William Brent Bell"
-            ],
-            "writers": [
-              "Stacey Menear"
-            ],
-            "in_wanted": {
-              "status": "active",
-              "info": {
-                "rating": {
-                  "imdb": [
-                    6.9,
-                    815
-                  ]
-                },
-                "genres": [
-                  "Horror",
-                  "Thriller"
-                ],
-                "tmdb_id": 321258,
-                "plot": "An American nanny is shocked that her new English family's boy is actually a life-sized doll. After violating a list of strict rules, disturbing events make her believe that the doll is really alive.",
-                "tagline": "",
-                "release_date": {
-                  "dvd": 1459461600,
-                  "expires": 1453930027,
-                  "theater": 1453417200,
-                  "bluray": true
-                },
-                "year": 2016,
-                "original_title": "The Boy",
-                "actor_roles": {
-                  "Diana Hardcastle": "Mrs. Heelshire",
-                  "Rupert Evans": "Malcolm",
-                  "Jim Norton": "Mr. Heelshire",
-                  "James Russell": "James",
-                  "Lauren Cohan": "Greta"
-                },
-                "via_imdb": true,
-                "images": {
-                  "disc_art": [],
-                  "poster": [
-                    "http://ia.media-imdb.com/images/M/MV5BMTQ1NzAwNTg1M15BMl5BanBnXkFtZTgwNDQwOTQ0NzE@._V1_SX300.jpg"
-                  ],
-                  "backdrop": [
-                    "https://image.tmdb.org/t/p/w1280/aOvgn3E5OjJDepApd1WtS2doqMF.jpg"
-                  ],
-                  "extra_thumbs": [],
-                  "poster_original": [
-                    "https://image.tmdb.org/t/p/original/lISBWF6UUF3cQPcoLE8pMxnyJty.jpg"
-                  ],
-                  "actors": {
-                    "Diana Hardcastle": "https://image.tmdb.org/t/p/w185/hl58zPrWbo1mfatgVxEnGsKGZ1b.jpg",
-                    "Rupert Evans": "https://image.tmdb.org/t/p/w185/AuPOKHD18bE2jKXONvrMLGVQ744.jpg",
-                    "Lauren Cohan": "https://image.tmdb.org/t/p/w185/5W4AV3ZXn38NlEMqPy9QPjwRRz8.jpg",
-                    "Jim Norton": "https://image.tmdb.org/t/p/w185/lndFtmSwtCzoeWkgjqJBqVRKGk2.jpg"
-                  },
-                  "backdrop_original": [
-                    "https://image.tmdb.org/t/p/original/aOvgn3E5OjJDepApd1WtS2doqMF.jpg"
-                  ],
-                  "clear_art": [],
-                  "logo": [],
-                  "banner": [],
-                  "landscape": [],
-                  "extra_fanart": []
-                },
-                "directors": [
-                  "William Brent Bell"
-                ],
-                "titles": [
-                  "The Boy",
-                  "The Inhabitant",
-                  "?? ?????"
-                ],
-                "imdb": "tt3882082",
-                "mpaa": "PG-13",
-                "via_tmdb": true,
-                "actors": [
-                  "Lauren Cohan",
-                  "Rupert Evans",
-                  "Ben Robson",
-                  "Diana Hardcastle"
-                ],
-                "writers": [
-                  "Stacey Menear"
-                ],
-                "runtime": 97,
-                "type": "movie",
-                "released": "2016-01-22"
-              },
-              "_t": "media",
-              "title": "The Boy",
-              "_rev": "000c14b5",
-              "profile_id": "e57930f7c49e4419a7ce764460921cd1",
-              "_id": "0a39772ec4484b628b739791a7b43b9f",
-              "tags": [],
-              "profile": {
-                "core": false,
-                "_rev": "0002f338",
-                "finish": [
-                  true,
-                  true
-                ],
-                "minimum_score": 1,
-                "_id": "e57930f7c49e4419a7ce764460921cd1",
-                "_t": "profile",
-                "label": "HD",
-                "qualities": [
-                  "1080p",
-                  "720p"
-                ],
-                "stop_after": [
-                  0,
-                  0
-                ],
-                "wait_for": [
-                  5,
-                  5
-                ],
-                "order": 0,
-                "3d": [
-                  0,
-                  0
-                ]
-              },
-              "last_edit": 1453695473,
-              "type": "movie",
-              "files": {
-                "image_poster": [
-                  "/Users/jayjo/Library/Application Support/CouchPotato/cache/d8f54038b9a50cdd52642a92916299da.jpg"
-                ]
-              },
-              "identifiers": {
-                "imdb": "tt3882082"
-              }
-            },
-            "actors": [
-              "Lauren Cohan",
-              "Rupert Evans",
-              "Ben Robson",
-              "Diana Hardcastle"
-            ],
-            "runtime": 97,
-            "type": "movie"
-          },
-          {
-            "rating": {
-              "imdb": [
-                4.6,
-                23396
-              ]
-            },
-            "tmdb_id": 241251,
-            "actor_roles": {
-              "John Corbett": "Garrett Peterson",
-              "Hill Harper": "Principal Edward Warren",
-              "Bailey Chase": "Benny",
-              "Jennifer Lopez": "Claire Peterson",
-              "Fran?ois Chau": "Detective Johnny Chou",
-              "Lexi Atkins": "Allie Callahan",
-              "Raquel Gardner": "Barbara",
-              "Ian Nelson": "Kevin Peterson",
-              "Ryan Guzman": "Noah Sandborn",
-              "Kristin Chenoweth": "Vicky Lansing"
-            },
-            "via_imdb": true,
-            "via_tmdb": true,
-            "titles": [
-              "The Boy Next Door",
-              "Le gar?on d'? c?t?",
-              "Obsesi?n"
-            ],
-            "imdb": "tt3181822",
-            "year": 2015,
-            "images": {
-              "poster": [
-                "https://image.tmdb.org/t/p/w154/h28t2JNNGrZx0fIuAw8aHQFhIxR.jpg",
-                "http://ia.media-imdb.com/images/M/MV5BMTgxNTEyMTYzOV5BMl5BanBnXkFtZTgwNzQ4OTg5MjE@._V1_SX300.jpg"
-              ],
-              "extra_thumbs": [],
-              "poster_original": [
-                "https://image.tmdb.org/t/p/original/h28t2JNNGrZx0fIuAw8aHQFhIxR.jpg"
-              ],
-              "actors": {
-                "John Corbett": "https://image.tmdb.org/t/p/w185/r66d7CFycEOwzFnRlAgv5HX8r1R.jpg",
-                "Hill Harper": "https://image.tmdb.org/t/p/w185/6Dz2mV1Jdfnv0789JTFY8G08ju2.jpg",
-                "Bailey Chase": "https://image.tmdb.org/t/p/w185/1Lmy7WGlthUPwjUDbj1ODTdWUZA.jpg",
-                "Jennifer Lopez": "https://image.tmdb.org/t/p/w185/mxBDIyt8u4q5eJcQkGipNYTtlvz.jpg",
-                "Fran?ois Chau": "https://image.tmdb.org/t/p/w185/r8EocoGAJVky0bQ6gyfxcabuTPz.jpg",
-                "Lexi Atkins": "https://image.tmdb.org/t/p/w185/fRq4XQ2X52lDqeDiHTRdSHU9xQC.jpg",
-                "Raquel Gardner": "https://image.tmdb.org/t/p/w185/rONhpmIXABWcJJgKjicQ87tJLEu.jpg",
-                "Ian Nelson": "https://image.tmdb.org/t/p/w185/e5UxvFTHRFI2o8RDiTAjb9tJXLL.jpg",
-                "Ryan Guzman": "https://image.tmdb.org/t/p/w185/yJR4t5PlBdsiPAP9JdGjqomkVv7.jpg",
-                "Kristin Chenoweth": "https://image.tmdb.org/t/p/w185/nZuynlyNec2G1QEIj0iHbKToaft.jpg"
-              },
-              "backdrop_original": [
-                "https://image.tmdb.org/t/p/original/vj4IhmH4HCMZYYjTMiYBybTWR5o.jpg"
-              ],
-              "backdrop": [
-                "https://image.tmdb.org/t/p/w1280/vj4IhmH4HCMZYYjTMiYBybTWR5o.jpg"
-              ]
-            },
-            "plot": "A recently cheated on married woman falls for a younger man who has moved in next door, but their torrid affair soon takes a dangerous turn.",
-            "genres": [
-              "Thriller",
-              "Mystery"
-            ],
-            "in_library": false,
-            "released": "2015-01-23",
-            "tagline": "A Moment She Couldn't Resist. An Obsession He Can't Control.",
-            "original_title": "The Boy Next Door",
-            "directors": [
-              "Rob Cohen"
-            ],
-            "writers": [
-              "Barbara Curry"
-            ],
-            "in_wanted": false,
-            "mpaa": "R",
-            "actors": [
-              "Jennifer Lopez",
-              "Ryan Guzman",
-              "Ian Nelson",
-              "John Corbett"
-            ],
-            "runtime": 91,
-            "type": "movie"
-          },
-          {
-            "rating": {
-              "imdb": [
-                6.9,
-                72919
-              ]
-            },
-            "tmdb_id": 9319,
-            "actor_roles": {
-              "Halle Berry": "Cory",
-              "Bill Medley": "Himself",
-              "Billy Blanks": "Billy Cole",
-              "Bruce Willis": "Joe Hallenbeck",
-              "Dick Butkus": "Himself",
-              "Bruce McGill": "Mike Matthews",
-              "Badja Djola": "Alley Thug",
-              "Verne Lundquist": "Himself",
-              "Ken Kells": "Head Coach",
-              "Joe El Rady": "Kid",
-              "Michael J. Fisher": "Wounded Player",
-              "Lynn Swann": "Himself",
-              "Morris Chestnut": "Locker Room Kid",
-              "Danielle Harris": "Darian Hallenbeck",
-              "Doug Simpson": "Wounded Player",
-              "Chelcie Ross": "Senator Baynard",
-              "Clarence Felder": "McCoskey",
-              "Chelsea Field": "Sarah Hallenbeck",
-              "Damon Wayans": "James Alexander 'Jimmy' Dix",
-              "Frank Collison": "Pablo",
-              "Kim Coates": "Chet",
-              "Noble Willingham": "Sheldon Marcone",
-              "Taylor Negron": "Milo",
-              "Joe Santos": "Bessalo",
-              "Tony Longo": "Big Ray Walston"
-            },
-            "via_imdb": true,
-            "via_tmdb": true,
-            "titles": [
-              "The Last Boy Scout",
-              "Den siste scouten",
-              "????????? ????????",
-              "Last Boy Scout",
-              "Le Dernier boy scout"
-            ],
-            "imdb": "tt0102266",
-            "year": 1991,
-            "images": {
-              "poster": [
-                "https://image.tmdb.org/t/p/w154/cTl2WqsERuZ5vYmAmtfsPIJBLr0.jpg",
-                "http://ia.media-imdb.com/images/M/MV5BMTUxNjQxMTAwMV5BMl5BanBnXkFtZTcwNTI5ODMyMQ@@._V1_.jpg",
-                "http://ia.media-imdb.com/images/M/MV5BMTUxNjQxMTAwMV5BMl5BanBnXkFtZTcwNTI5ODMyMQ@@._V1_SX300.jpg"
-              ],
-              "extra_thumbs": [],
-              "poster_original": [
-                "https://image.tmdb.org/t/p/original/cTl2WqsERuZ5vYmAmtfsPIJBLr0.jpg"
-              ],
-              "actors": {
-                "Halle Berry": "https://image.tmdb.org/t/p/w185/AmCXHowNbUXpNf41dNrxNB0naM2.jpg",
-                "Bill Medley": "https://image.tmdb.org/t/p/w185/gZix2FrZ9Dw4OvAh0Spu8IfRp6Z.jpg",
-                "Billy Blanks": "https://image.tmdb.org/t/p/w185/hkbllU1QR9irZ2AmW0eLelKoZSS.jpg",
-                "Bruce Willis": "https://image.tmdb.org/t/p/w185/kI1OluWhLJk3pnR19VjOfABpnTY.jpg",
-                "Dick Butkus": "https://image.tmdb.org/t/p/w185/eF8Bg3YPzJw9DH1B3QlAJfdsZgH.jpg",
-                "Bruce McGill": "https://image.tmdb.org/t/p/w185/n5lXakx8RP8LkRl4rXtHSOSIjPl.jpg",
-                "Badja Djola": "https://image.tmdb.org/t/p/w185/i5j8WpNKydvBs2Vu3cYJyXNBy3V.jpg",
-                "Verne Lundquist": "https://image.tmdb.org/t/p/w185/AkUVqg2rkExTneawEUSYFjYnv8O.jpg",
-                "Ken Kells": "https://image.tmdb.org/t/p/w185/n0hKRviE0p0I5UqJ5BVJ1gamM15.jpg",
-                "Lynn Swann": "https://image.tmdb.org/t/p/w185/hK8KMKumG0kCARGUBmN3P0UrBRN.jpg",
-                "Morris Chestnut": "https://image.tmdb.org/t/p/w185/xHgWktsqPDsSsq8RWTe98IwxIIM.jpg",
-                "Danielle Harris": "https://image.tmdb.org/t/p/w185/q3wQP4ZwVjfBerFK0iVZPzaF5BL.jpg",
-                "Chelcie Ross": "https://image.tmdb.org/t/p/w185/gtUOc36bK5MrjdRPQJi1b0cc0LT.jpg",
-                "Clarence Felder": "https://image.tmdb.org/t/p/w185/hbioULG0wwkHlXcjXy89eZIPt2J.jpg",
-                "Chelsea Field": "https://image.tmdb.org/t/p/w185/9NnerSpNB4Ro3f3iMRorv1uvYlA.jpg",
-                "Damon Wayans": "https://image.tmdb.org/t/p/w185/rQ1KV896Hm0jzLTOdksbHoXh67l.jpg",
-                "Frank Collison": "https://image.tmdb.org/t/p/w185/mrFWmvxe72WwrjyYOZXtNpJLLfQ.jpg",
-                "Kim Coates": "https://image.tmdb.org/t/p/w185/xGoPaGsqRWCsDDDmY1gNR8eoxTA.jpg",
-                "Noble Willingham": "https://image.tmdb.org/t/p/w185/stdQUjYtyjfuJRgA89DyzkZEyai.jpg",
-                "Taylor Negron": "https://image.tmdb.org/t/p/w185/wk0bOBqw47cMntR7IJvlE9hE372.jpg",
-                "Joe Santos": "https://image.tmdb.org/t/p/w185/7D7ddztwCyW1D0DIxNR0JDAWu0d.jpg",
-                "Tony Longo": "https://image.tmdb.org/t/p/w185/1kRcEeiz6cFAX41xz9ttCDE2MfG.jpg"
-              },
-              "backdrop_original": [
-                "https://image.tmdb.org/t/p/original/3BRLjwxF2rmVFedrQkjNdPcd8Uw.jpg"
-              ],
-              "backdrop": [
-                "https://image.tmdb.org/t/p/w1280/3BRLjwxF2rmVFedrQkjNdPcd8Uw.jpg"
-              ]
-            },
-            "plot": "When the girl that detective Joe Hallenback is protecting gets murdered, the boyfriend of the murdered girl (ex-football player Jimmy Dix) attempts to investigate and solve the case. What they discover is that there is deep seated corruption going on between a crooked politician and the owner of a pro football team.",
-            "genres": [
-              "Adventure",
-              "Action",
-              "Comedy",
-              "Thriller",
-              "Crime",
-              "Mystery"
-            ],
-            "in_library": false,
-            "released": "1991-12-12",
-            "tagline": "Everyone had counted them out. But they're about to get back in the game.",
-            "original_title": "The Last Boy Scout",
-            "directors": [
-              "Tony Scott"
-            ],
-            "writers": [
-              "Shane Black (story)",
-              "Greg Hicks (story)",
-              "Shane Black (screenplay)"
-            ],
-            "in_wanted": false,
-            "mpaa": "R",
-            "actors": [
-              "Bruce Willis",
-              "Damon Wayans",
-              "Chelsea Field",
-              "Noble Willingham"
-            ],
-            "runtime": 105,
-            "type": "movie"
-          },
-          {
-            "rating": {
-              "imdb": [
-                6.3,
-                1175
-              ]
-            },
-            "genres": [
-              "Fantasy",
-              "Adventure",
-              "Comedy",
-              "Sci-Fi"
-            ],
-            "in_library": false,
-            "titles": [
-              "The Invisible Boy",
-              "Il ragazzo invisibile"
-            ],
-            "tmdb_id": 303542,
-            "plot": "Michele is thirteen year old, shy, unpopular at school, and in love with Stella. After wearing a costume for a Halloween party, he finds out that he's invisible.",
-            "mpaa": "T",
-            "original_title": "Il ragazzo invisibile",
-            "actor_roles": {
-              "Fabrizio Bentivoglio": "Basilli",
-              "Valeria Golino": "Giovanna",
-              "Kseniya Rappoport": "Yelena",
-              "Assil Kandil": "Candela",
-              "Noa Zatta": "Stella",
-              "Vilius Tumalavicius": "Biondo",
-              "Ludovico Girardello": "Michele",
-              "Christo Jivkov": "Andreij"
-            },
-            "via_imdb": true,
-            "images": {
-              "poster_original": [
-                "https://image.tmdb.org/t/p/original/eYkOI2sLAoUhj8UgVhY03LAR8yW.jpg"
-              ],
-              "poster": [
-                "https://image.tmdb.org/t/p/w154/eYkOI2sLAoUhj8UgVhY03LAR8yW.jpg",
-                "http://ia.media-imdb.com/images/M/MV5BYWMzNzAxOTktMmE3ZS00OTQxLWJiZWQtYjM3MWQxZmJlMTE5XkEyXkFqcGdeQXVyMTAxNTc3Nzk@._V1_.jpg"
-              ],
-              "actors": {
-                "Kseniya Rappoport": "https://image.tmdb.org/t/p/w185/8CRRe5lTddGGUTF2pjNHAeYw12n.jpg",
-                "Fabrizio Bentivoglio": "https://image.tmdb.org/t/p/w185/uODahcGkpEJJNPPZNw06ET5V9d5.jpg",
-                "Christo Jivkov": "https://image.tmdb.org/t/p/w185/rRoYhDGVsXhCeVyhVa0lnhl6HSc.jpg",
-                "Valeria Golino": "https://image.tmdb.org/t/p/w185/kK13NzfxGQBJ8Th9SiPbu0FFJq7.jpg"
-              },
-              "backdrop_original": [
-                "https://image.tmdb.org/t/p/original/woLLDo3tal0R2jBykWyw6QJiDJk.jpg"
-              ],
-              "backdrop": [
-                "https://image.tmdb.org/t/p/w1280/woLLDo3tal0R2jBykWyw6QJiDJk.jpg"
-              ]
-            },
-            "directors": [
-              "Gabriele Salvatores"
-            ],
-            "writers": [
-              "Alessandro Fabbri",
-              "Ludovica Rampoldi",
-              "Stefano Sardo"
-            ],
-            "in_wanted": false,
-            "year": 2014,
-            "via_tmdb": true,
-            "imdb": "tt3078296",
-            "actors": [
-              "Ludovico Girardello",
-              "Valeria Golino",
-              "Fabrizio Bentivoglio",
-              "Christo Jivkov"
-            ],
-            "type": "movie",
-            "runtime": 100
-          },
-          {
-            "rating": {
-              "imdb": [
-                7.8,
-                123130
-              ]
-            },
-            "genres": [
-              "Drama",
-              "War"
-            ],
-            "in_library": false,
-            "titles": [
-              "The Boy in the Striped Pajamas",
-              "The Boy in the Striped Pyjamas",
-              "O Rapaz do Pijama ?s Riscas",
-              "???????",
-              "????????",
-              "O Menino do Pijama Listrado"
-            ],
-            "tmdb_id": 14574,
-            "plot": "Set during World War II, a story seen through the innocent eyes of Bruno, the eight-year-old son of the commandant at a concentration camp, whose forbidden friendship with a Jewish boy on the other side of the camp fence has startling and unexpected consequences.",
-            "tagline": "Lines may divide us, but hope will unite us.",
+            "title": "Breaking Bad",
+            "slug": "breaking-bad",
             "year": 2008,
-            "original_title": "The Boy in the Striped Pyjamas",
-            "actor_roles": {
-              "Zsuzsa Holl": "Berlin Cook",
-              "Richard Johnson": "Grandpa",
-              "Cara Horgan": "Maria",
-              "Jack Scanlon": "Shmuel",
-              "Asa Butterfield": "Bruno",
-              "Vera Farmiga": "Mother",
-              "Rupert Friend": "Lieutenant Kurt Kotler",
-              "Iv?n Vereb?ly": "Meinberg",
-              "Charlie Baker": "Palm Court Singer",
-              "B?la Fesztbaum": "Schultz",
-              "L?szl? ?ron": "Lars",
-              "Sheila Hancock": "Grandma",
-              "Zac Mattoon O'Brien": "Leon",
-              "Henry Kingsmill": "Karl",
-              "Amber Beattie": "Gretel",
-              "David Thewlis": "Father"
-            },
-            "via_imdb": true,
-            "images": {
-              "poster_original": [
-                "https://image.tmdb.org/t/p/original/f40R9to84FGF7T5bp3KGB84Lklb.jpg"
-              ],
-              "poster": [
-                "https://image.tmdb.org/t/p/w154/f40R9to84FGF7T5bp3KGB84Lklb.jpg",
-                "http://ia.media-imdb.com/images/M/MV5BMTMzMTc3MjA5NF5BMl5BanBnXkFtZTcwOTk3MDE5MQ@@._V1_.jpg",
-                "http://ia.media-imdb.com/images/M/MV5BMTMzMTc3MjA5NF5BMl5BanBnXkFtZTcwOTk3MDE5MQ@@._V1_SX300.jpg"
-              ],
-              "actors": {
-                "Rupert Friend": "https://image.tmdb.org/t/p/w185/tYDs9R1TDHUgIT3bnXZo6GoyzTI.jpg",
-                "Richard Johnson": "https://image.tmdb.org/t/p/w185/miDA5sN3ijfED6M4oRZ0NTdBfBR.jpg",
-                "Cara Horgan": "https://image.tmdb.org/t/p/w185/wXPFyDpKemvplSq1X9YFUrZc0ev.jpg",
-                "Jack Scanlon": "https://image.tmdb.org/t/p/w185/lZXxoJ2dyv3tD0ookIKNx5hkxsF.jpg",
-                "Asa Butterfield": "https://image.tmdb.org/t/p/w185/zvaIeivqGmWgCtWusKmItMq3eeC.jpg",
-                "Vera Farmiga": "https://image.tmdb.org/t/p/w185/dNeyqIgD29efuzdoDFGqPZYa1Y0.jpg",
-                "Charlie Baker": "https://image.tmdb.org/t/p/w185/dweX5EVhUh4JfcKgVuaMAgjbyaJ.jpg",
-                "Sheila Hancock": "https://image.tmdb.org/t/p/w185/jZv0I2HNE4BbFTatSXPotNvZWRS.jpg",
-                "Zac Mattoon O'Brien": "https://image.tmdb.org/t/p/w185/oiVl4lzBroQbCa4iOydICQF2Tz6.jpg",
-                "Amber Beattie": "https://image.tmdb.org/t/p/w185/6wl7bpIIvkSG5fFUHjHTc62liv8.jpg",
-                "David Thewlis": "https://image.tmdb.org/t/p/w185/ozGL5i87RkvO2FTd43awnoJzFo7.jpg"
+            "tvdbId": 81189,
+            "imdbId": "tt0903747",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/4818a6a00040360a2b01c7f7e9e86b39c5253f94a80aa6e7e22c1cd0fe8afa8a/81189-g24.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/81189-g24.jpg"
               },
-              "backdrop_original": [
-                "https://image.tmdb.org/t/p/original/prhrYZvQN1eXxBeZdLlNSyLfPQb.jpg"
-              ],
-              "backdrop": [
-                "https://image.tmdb.org/t/p/w1280/prhrYZvQN1eXxBeZdLlNSyLfPQb.jpg"
-              ]
-            },
-            "directors": [
-              "Mark Herman"
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/654177c109680f7222c3b91329075525bd3d06ea3aef40b45116019d8d7c1b72/81189-10.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/81189-10.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/d9dc68c13352e121ea8212d6d9047f21419770cd85faa26369d10ad2f30ec2b5/81189-35.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/81189-35.jpg"
+              }
             ],
-            "writers": [
-              "John Boyne (novel)",
-              "Mark Herman (screenplay)"
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 3,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 4,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 5,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Breaking Band",
+            "slug": "breaking-band",
+            "year": 2016,
+            "tvdbId": 306432,
+            "imdbId": "tt4854852",
+            "images": [],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Metástasis",
+            "slug": "metastasis",
+            "year": 2013,
+            "tvdbId": 273859,
+            "imdbId": "tt3190448",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/ca2b844c75bd5f28fb7cac87faa434d6b229e80a31a69ead19f7a0d07ebc3659/273859-g.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/273859-g.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/b98be65901b95b7389834ef35ac5c26cb29d3de99d0c112622f4848c61f24dd2/273859-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/273859-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/d31b93ac8c2919692e2bdab934c46ba0686dd5ad12a70e2eff398c9abff09ce2/273859-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/273859-1.jpg"
+              }
             ],
-            "in_wanted": false,
-            "mpaa": "PG-13",
-            "via_tmdb": true,
-            "imdb": "tt0914798",
-            "actors": [
-              "Asa Butterfield",
-              "Zac Mattoon O'Brien",
-              "Domonkos N?meth",
-              "Henry Kingsmill"
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Breaking Hate",
+            "slug": "breaking-hate",
+            "year": 2018,
+            "tvdbId": 350929,
+            "imdbId": "tt8840790",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/6be6c73f2f1b2a810e82b107985a397488713267066364254017b5f686f227cd/5b7328e23e11a.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5b7328e23e11a.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/3eacb72167440f1caba2becc08ef3f9e2ff66c98f0f830598671c2ea3842cee4/5b732800645a4.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/5b732800645a4.jpg"
+              }
             ],
-            "type": "movie",
-            "runtime": 94
+            "status": "continuing",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Breaking Borders",
+            "slug": "breaking-borders",
+            "year": 2015,
+            "tvdbId": 293247,
+            "imdbId": "tt4362312",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/1673c6ed5501243b09c03e41b4e3f5e8faf0cf7a6026ce771d59580650cd96e5/293247-g.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/293247-g.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/2c5d993c9d6e5e19479e40e44d26521d14837307329d1f8cb35c82c33ed47c90/293247-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/293247-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/19ed42ff4a8d56bde7199dc21cbce032f03560a6687a43cf71395c5067d7ceff/293247-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/293247-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Breaking Good",
+            "slug": "breaking-good",
+            "year": 2020,
+            "tvdbId": 401056,
+            "imdbId": "tt14434852",
+            "images": [],
+            "status": "continuing",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Breaking Vegas",
+            "slug": "breaking-vegas",
+            "year": 2005,
+            "tvdbId": 308294,
+            "images": [
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/d3551006e6d61658cee5718e044ee225d9f01a3b4f787ba0d352af002a2e23fe/308294-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/308294-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Breaking In",
+            "slug": "breaking-in",
+            "year": 2011,
+            "tvdbId": 206751,
+            "imdbId": "tt1630574",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/c8ab60d79612530591729e248fd49db57b85173fa6c7f48092895e3cc7f99d3c/206751-g3.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/206751-g3.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/a42a71bc808eef530ddd17329610736073e05875cd8c259d357b87cd7be5253e/206751-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/206751-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/55a6dd2fb1f877de892ddc30e9224d459544eb85b68e0da144b29506e444fede/206751-4.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/206751-4.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Now, We Are Breaking Up",
+            "slug": "now-we-are-breaking-up",
+            "year": 2021,
+            "tvdbId": 398219,
+            "imdbId": "tt14408016",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/ff783aebb9b38ace18d446252fa9be39006bac77e1ab08186df3c3033fb4b0c8/627e8f50e58c4.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/398219/banners/627e8f50e58c4.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/b3b42b8354db30e4485de5ed7418e4c05c413a93133bf73e0747086ff562f3f4/6182cedd04097.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/398219/posters/6182cedd04097.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/775ef9ae8e826da45c4edcd00b84adf829610555db57080d9c13d6aca380f1b1/615c486bbbc05.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/398219/backgrounds/615c486bbbc05.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Breaking Fashion",
+            "slug": "breaking-fashion",
+            "year": 2019,
+            "tvdbId": 369804,
+            "imdbId": "tt11176484",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/08a3172d31c94074c1969d7146fb5a67aa90bc2373b2ed64f287f391c495566f/5d915129271a8.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5d915129271a8.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/62d6fed2ffc0c1dbea37f8dcbbcf3ba43c79981362657609b253ebc400b5c328/5db4df983a660.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/5db4df983a660.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/1bbd10fc5441487c2a34b44b72cbe7564325fee72dc232d37a36cbdec880936e/5db4df3a263d3.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5db4df3a263d3.jpg"
+              }
+            ],
+            "status": "continuing",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Breaking News",
+            "slug": "breaking-news",
+            "year": 2018,
+            "tvdbId": 404643,
+            "imdbId": "tt10887470",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/795d181e9cf1497f08087193fd0af0bbd3e8b445df5ef1bd4ac3ae07e9fff250/6135592c7fa4a.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/404643/banners/6135592c7fa4a.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/13156800e74f263f0f86f365a522754d1bedf28be6261ca3722b4ff9bfa65196/613558e471e6c.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/404643/posters/613558e471e6c.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/f49532249d0b75f4f23779d6adfc3835dbb4d968282f35359c0170061c025d56/6138014dea37a.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/404643/backgrounds/6138014dea37a.jpg"
+              }
+            ],
+            "status": "continuing",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 3,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 4,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 5,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Talking Bad",
+            "slug": "talking-bad",
+            "year": 2013,
+            "tvdbId": 272219,
+            "imdbId": "tt3115468",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/471c52b750d8d79cded3deb42ebca19e7253b950976c279658bcae4e84a27413/272219-g2.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/272219-g2.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/cbf2d20f686f99eb8ddd84116a1c9f5c6e5134f420723800a976a99f42706ea8/272219-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/272219-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/b17cb9b801cda19a0d2579193fa930c707df16a7f02cd01a60756802b4134727/272219-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/272219-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Breaking Boundaries",
+            "slug": "breaking-boundaries",
+            "year": 2021,
+            "tvdbId": 402778,
+            "imdbId": "tt11548494",
+            "images": [
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/c87c5622c7df57551127a04912d4edb7cb9a33788c4bdf46b8102ec25a248426/609d49b923c5b.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/402778/posters/609d49b923c5b.jpg"
+              }
+            ],
+            "status": "continuing",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Breaking Point",
+            "slug": "breaking-point",
+            "year": 1963,
+            "tvdbId": 77369,
+            "imdbId": "tt0056743",
+            "images": [
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/91de65da5d88873d752c4907ecff9d438198d756be8f4d7e13d22c31f7d353f7/601b11fdd85f8.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/series/77369/posters/601b11fdd85f8.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Broken Blade",
+            "slug": "broken-blade",
+            "year": 2014,
+            "tvdbId": 179791,
+            "imdbId": "tt3509378",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/bf63cc76e6510ff345876ff80bda7553fed2a71e29f6564e1bbfdadcecc0ba7b/179791.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/text/179791.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/a4595d1977ee9f81f12125a096912f801cd68ea3454b9e89973279f1b8fa4d48/179791-5.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/179791-5.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/0d3b093e6996a0eb795cd070ade19913c446a726c690cb37e2e66f29c1113ac9/179791-3.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/179791-3.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Breaking Homicide",
+            "slug": "breaking-homicide",
+            "year": 2018,
+            "tvdbId": 344851,
+            "imdbId": "tt7878864",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/82340fb423b1c52e97d6d94bc062d9f8853660e2dacdb6917a307866abc1ca0b/5b35d13aeb6d1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5b35d13aeb6d1.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/c72696d1a7b48fda4004f31fba214be9bd7e411cb4dadf2c7d38a6929ed51fbf/344851-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/344851-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/c35ccf800be86f2dc23c4562c4b1be4377c93b3b73f07bb7873f65a311a57173/344851-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/344851-1.jpg"
+              }
+            ],
+            "status": "continuing",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Breaking the Faith",
+            "slug": "breaking-the-faith",
+            "year": 2013,
+            "tvdbId": 274827,
+            "imdbId": "tt3230864",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/7851a01725d18a72f8c32b938c220f6f2642862e6a2474dcc7a0c2f0190d37f1/274827-g.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/274827-g.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/80eb959a4fb71c2a8061407d5b6b08f5d963eb7e8848b5a6a2be19422242eea6/274827-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/274827-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/11e760e51ddbf96b900b0d5770a6133e4b8673505b44766bf33c62b2fd613213/274827-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/274827-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Breaking Pointe",
+            "slug": "breaking-pointe",
+            "year": 2012,
+            "tvdbId": 258502,
+            "imdbId": "tt2290981",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/3f74d4f7eff657c7a0f4acd5ad3fe14e67a90c7b46134c4c4f0ea660181dddc2/258502-g.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/258502-g.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/c9b4bc752b5b1b407b77b34b21eb118d14295905ceb484f9d968ddc79f85d517/258502-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/258502-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/fae65ef8193f210208491d93118be79d266e7749e60f5caf09e964b6d4d853b7/258502-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/258502-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Men Brewing Badly",
+            "slug": "men-brewing-badly",
+            "year": 2010,
+            "tvdbId": 166671,
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/4d0ecd5efb811ccfefa34768e975e22e3aacd92dbde2495dc2c6181ee75ff4ae/166671-g.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/166671-g.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/347e5728a5da9f1c216b45ec2a52fd2f9b2e6d74deddf71e4386f442a4bce938/166671-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/166671-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/e7b28a05d1d2e6706dd1a3e974fd42954cbe537a2ed0667cffa94ecfa05d2d0d/166671-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/166671-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Coaching Bad",
+            "slug": "coaching-bad",
+            "year": 2015,
+            "tvdbId": 291783,
+            "imdbId": "tt4228596",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/08b62b4c1b1a2eff124fa97740ace847fecc05920df1bd71a3eded789e031aa4/291783-g.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/291783-g.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/c62793217c033983f7ee7f1d9c8e7ef660447d04d210f0fcb20ee7a0e5497324/291783-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/291783-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/e4fbe98c77294a8e5cfcf276f0bbbb3e4d2dbed9c2edc64c9145228f51c4d4dc/291783-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/291783-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Breaking the Set",
+            "slug": "breaking-the-set",
+            "year": 2012,
+            "tvdbId": 275687,
+            "imdbId": "tt3098562",
+            "images": [],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Breaking the News (2018)",
+            "slug": "breaking-the-news-2018",
+            "year": 2019,
+            "tvdbId": 359219,
+            "imdbId": "tt10102954",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/4fa39c6cbf0e08f58a740440bdf9fe71d3b8fd8f1da2b88f6b1cae1174282641/5cd55e220d4c6.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5cd55e220d4c6.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/7913f571b7374e9bf978761d9196b89035912267504c35eba0c108ef36b9814d/5c59ecf079827.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/5c59ecf079827.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/22debc04126d8055654864940f39c147217df609eead232348cc0f3b25c16332/618d9c6f3ba1f.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/359219/backgrounds/618d9c6f3ba1f.jpg"
+              }
+            ],
+            "status": "continuing",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Breaking Bad Fortune Teller",
+            "slug": "breaking-bad-fortune-teller",
+            "year": 2016,
+            "tvdbId": 415491,
+            "images": [
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/ac63a8f9c142a5dd242a56cd258947aca22f2d4e4a67f8ee33f03395aa978727/61f834ad1d22d.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/415491/posters/61f834ad1d22d.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Break It Down",
+            "slug": "break-it-down",
+            "year": 2008,
+            "tvdbId": 179711,
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/4e540614e1ce2f1c5b1c619fa7c9a890e1fdc7914101f2266017f00780942d79/179711.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/text/179711.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/1f647cbdb6a831b4fbaa8f7645b39d327d3224654ef37c3eb8bc6e1d19965dfd/179711-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/179711-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/a12c7d9dfec16faccef96df8f712ed8b2ef64af2538168ec938712416ba67336/5b37277f9d388.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5b37277f9d388.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Breaking Mysterious",
+            "slug": "breaking-mysterious",
+            "year": 2018,
+            "tvdbId": 343890,
+            "imdbId": "tt5822252",
+            "images": [],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Breaking Into Tesco",
+            "slug": "breaking-into-tesco",
+            "year": 2008,
+            "tvdbId": 259812,
+            "imdbId": "tt1235458",
+            "images": [],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "strongbad_email.exe",
+            "slug": "strongbad_emailexe",
+            "year": 2001,
+            "tvdbId": 240101,
+            "imdbId": "tt0453401",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/a2f6c574f593a8492a972c96d9f49ad240689e252cb4a89f65b3211bf997207b/240101.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/text/240101.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/4dac87f88871db9a539f55302ee4f8fb0280778d16527081d3694904fad9c31a/240101-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/240101-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/e8678fc1aab56bb354b8cac1ad5012c08b902f80f34bd3d3f50a76eec5002124/240101-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/240101-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 3,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 4,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 5,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 6,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 7,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 8,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 9,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Break It Down",
+            "slug": "break-it-down",
+            "year": 2013,
+            "tvdbId": 404253,
+            "imdbId": "tt3150080",
+            "images": [],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Breakout Kings",
+            "slug": "breakout-kings",
+            "year": 2011,
+            "tvdbId": 219341,
+            "imdbId": "tt1590961",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/8d3b535f9822efccec7529e37e2513c17aca08aeebf63685be8a14bc887b6dde/219341-g2.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/219341-g2.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/d4519566e33c0b501ebd250eb9b98430557e02419f68af6d3a3d005961543633/219341-3.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/219341-3.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/21b0a05f0d9f6a27eee5877489f637d54e50ff2c2c5945af1b3120fdc0a285cf/219341-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/219341-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Break Point",
+            "slug": "break-point",
+            "year": 1982,
+            "tvdbId": 405476,
+            "imdbId": "tt0398432",
+            "images": [],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Couple Breaking",
+            "slug": "couple-breaking",
+            "year": 2007,
+            "tvdbId": 281395,
+            "imdbId": "tt10642186",
+            "images": [
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/cd77ab58413902ad11fcae6c29a274c7730520e16cbeaebc13ff75ef10f218ce/61f8e18be2365.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/281395/posters/61f8e18be2365.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/e3f40940b65bedb9adeb310d9c53867cb8693dcf0ea2ba7960d1905a52595837/281395-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/281395-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Breaking the Magician's Code: Magic's Biggest Secrets Finally Revealed",
+            "slug": "breaking-the-magicians-code-magics-biggest-secrets-finally-revealed",
+            "year": 2008,
+            "tvdbId": 83299,
+            "imdbId": "tt1257805",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/74beebb5c51e1e41a16348629acc814ef11af0d40ce33050e020e7b58df27f06/83299-g3.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/83299-g3.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/e03f538987fc7a73d8846bdae3920e7e1a47dee5028897b9027bbad16f054998/83299-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/83299-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/df89f3b4682f0b09bb733983b3471a087539f5db6457aef1fb3d418f4bfc6d6b/83299-2.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/83299-2.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bangkok Breaking",
+            "slug": "bangkok-breaking",
+            "year": 2021,
+            "tvdbId": 404462,
+            "imdbId": "tt14202282",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/6070ea1b7d4bcbb5098a8250617c78b4e5f36f76721fda0227cfbfefc61759d5/614da1d272d7c.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/404462/banners/614da1d272d7c.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/75ff558bbd51f1ef4a0e2b585523b762a9328ef0b21b4b292f538411da14fe1f/61423ac3ac6a0.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/404462/posters/61423ac3ac6a0.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/ef1ff7b844e777421fd8a49fe769bdb059ecffb7e3911626c65dedef36871bfa/61423aedaa330.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/404462/backgrounds/61423aedaa330.jpg"
+              }
+            ],
+            "status": "continuing",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "WWE Break it Down",
+            "slug": "wwe-break-it-down",
+            "year": 2020,
+            "tvdbId": 378070,
+            "imdbId": "tt11742152",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/a8868f5b77f32b1e557330ed51d2e83db36c302649e5665abeaafbc0943ba453/5eafb8dae5ea7.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/series/378070/banners/5eafb8dae5ea7.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/b0309715a1a979fb29482c4354c9d4814843f45df77af57f7c826ce28c82c0bd/5eafaf3195d19.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/series/378070/posters/5eafaf3195d19.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/ebfc1d186e90a691e08206604096aac9f766e96d7b0c9b35a68c708e05d7fde1/5f0cbc8a6629d.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/series/378070/backgrounds/5f0cbc8a6629d.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "The Break Boys",
+            "slug": "the-break-boys",
+            "year": 2016,
+            "tvdbId": 416987,
+            "imdbId": "tt6382718",
+            "images": [],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "I Escaped: Real Prison Breaks",
+            "slug": "i-escaped-real-prison-breaks",
+            "year": 2010,
+            "tvdbId": 176151,
+            "imdbId": "tt3391634",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/e679f29ce6dd42e1ce9db4fcc2b56b1d06f47cd901d26a9d429f036e1ebaf66e/176151-g.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/176151-g.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/32e3b43a240573b618f07ca6fa5f2d5bb132bbb2a9c1ef0f01a01e8ea9afd72d/176151-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/176151-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/40e4b48ddbb84dd2bae9a211882eb4e57b6c066de521d0cc9df8b6f2b9650f6c/176151-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/176151-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Big Break",
+            "slug": "big-break",
+            "year": 1991,
+            "tvdbId": 256078,
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/59a6fd8d72224bffe0b03ae5c9a03842bfb6cb2eb247809b6ffe64e165c16fda/628b38d3a2861.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/256078/banners/628b38d3a2861.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/faa4adfe4c2957d4e7abb930888437fb5336b3238ea111a547edbbcf79e9f4e7/256078-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/256078-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/146a4b0b3b9fd4b8a5d6d6934629342272c7a9829fe18adcf2b54d337c8b2d8c/256078-2.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/256078-2.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 3,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 4,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 5,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 6,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 7,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 8,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 9,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 10,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 11,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 12,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 13,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 14,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Vegan Break",
+            "slug": "vegan-break",
+            "year": 2009,
+            "tvdbId": 314233,
+            "images": [
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/f297986014d9cf0da8be1d9831a27c96d9c14ad5b9b5abf47a54602259fb99c7/314233-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/314233-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/1ab79f3e9c653496795f3cedc749bb087c2f657f75358a18dcb908f7e6c000a8/314233-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/314233-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 3,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 4,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 5,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 6,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 7,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 8,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 9,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Down Bad",
+            "slug": "down-bad",
+            "year": 2021,
+            "tvdbId": 415437,
+            "imdbId": "tt13814546",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/c9c767e2f1d59ce4fa30070daec5229df1a1d838ede509e239c14bd5ca97ef32/6205ffdd657c1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/415437/banners/6205ffdd657c1.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/a9d63dbb7e7c4fd46275d182ed2cb029f0bdbd6121f11fa520bc250d38e3728d/61f6f7bdeed3f.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/415437/posters/61f6f7bdeed3f.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/6042b71bd3cc2fce22809c0b45729964a7f0a40c93a5aa036d2e96e190fd7251/620600feaa265.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/415437/backgrounds/620600feaa265.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Unkind Ladies",
+            "slug": "unkind-ladies",
+            "year": 2015,
+            "tvdbId": 292009,
+            "imdbId": "tt4507478",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/28ca5e06e26ed743997cedea0a0d6e003eff9ae31443554066962b01b1dc3887/292009-g.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/292009-g.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/76fd6b009e7964e69a0aba7e8c2d154f2873a63a51f66e115fbe370d405afccb/292009-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/292009-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/2fd64fced0beede49161474c9c57cccb87f5cb7af1e77a00d66abf086a672167/292009-4.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/292009-4.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Not Bad",
+            "slug": "not-bad",
+            "year": 1993,
+            "tvdbId": 216321,
+            "imdbId": "tt0106085",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/64f6f3ff750bbb574f711e5e4e8097d2ef0237810dcd8a786a3495fb398b9892/216321-g.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/216321-g.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/52731791991d86a8c87b55efc269fc3d348fa1521541ecc370a3907284b4bbc5/216321-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/216321-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/b45e6e75439a5cbe9de531e0ba78bcf97e98220bbf8ad7a39452d3a0a0110cae/216321-2.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/216321-2.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 3,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Napster Bad",
+            "slug": "napster-bad",
+            "year": 2000,
+            "tvdbId": 402928,
+            "images": [],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Lip Reading",
+            "slug": "bad-lip-reading",
+            "year": 2011,
+            "tvdbId": 287759,
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/0d983122b9c0fea7c59b1ce23cdbdaf3f358100d0313b50f272c0f513edd95b7/287759.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/text/287759.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/816e6d89ba730b4f40bb38836165d31af777df8c0e22d83dac88396a4f856ce1/287759-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/287759-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/96fa2555ae731e7f02afc0595547344612dd358319233951d2b8bbc60fb280e7/287759-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/287759-1.jpg"
+              }
+            ],
+            "status": "continuing",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 3,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 4,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "I Feel Bad",
+            "slug": "i-feel-bad",
+            "year": 2018,
+            "tvdbId": 349273,
+            "imdbId": "tt7979042",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/6f94d067c28ef67ff43b7fc7347dde52a34e3f07ce82cb70c9801add3fe58175/5b2a50cad4e28.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5b2a50cad4e28.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/59f2291ea5b571536f53db0620df045c66cd5b70614ef67170e529929f1b1f7a/5bc1c71e9a9ed.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/5bc1c71e9a9ed.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/bebe77a36fd4614620ae6804b4a077ec9036aeb2b6d7705ee050279353c47a14/5b295fe353af3.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5b295fe353af3.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Prison Break",
+            "slug": "prison-break",
+            "year": 2005,
+            "tvdbId": 360115,
+            "imdbId": "tt0455275",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/c728a5269fc26bc94fd8382d3cf32bc18c373615955cd3ebbfdc4f1906d4498d/5c9dff708b17f.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5c9dff708b17f.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/092628d23e8cfc809512077a43eae441dad219ce56e428763ac1ba003f93ce90/5c9e0957ce5be.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/5c9e0957ce5be.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/0bc78abf8f21eb59671add519c4a6b32784b6fade64002db86370fdad3f6685c/5c9e06b046ab6.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5c9e06b046ab6.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 3,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 4,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 5,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Buddy",
+            "slug": "bad-buddy",
+            "year": 2021,
+            "tvdbId": 392790,
+            "imdbId": "tt13660938",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/5973dac5e079069a93065acd47f0b8b92f6df2dc68855cf15bb69652ac35399c/61c12c9223e22.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/392790/banners/61c12c9223e22.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/737011ac71c8e25cfbd98f01107e51957a42b3f2c58f5dfd16376e941d84578c/6169d79dec07d.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/392790/posters/6169d79dec07d.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/2422cf12c9f954f038563b6a2940a060a9c51cd94d48a0c0cc2e4b6ba017eded/616aada2487d1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/392790/backgrounds/616aada2487d1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Banks",
+            "slug": "bad-banks",
+            "year": 2018,
+            "tvdbId": 341330,
+            "imdbId": "tt6258718",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/d4b927835807e6413dc56a26447f0f90da2b64e9ef70bfd5fb015957762df8e5/341330-g.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/341330-g.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/49e16a738fad2454076777a918f8bb6a0d60c00abe504b38b209165d006bb7f4/341330-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/341330-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/da774bfe2ddbc3e296392591f466e543efb2eae7cb002334b21b91655076519b/341330-3.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/341330-3.jpg"
+              }
+            ],
+            "status": "continuing",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Cop, Bad Cop",
+            "slug": "bad-cop-bad-cop",
+            "year": 2002,
+            "tvdbId": 71722,
+            "imdbId": "tt0307720",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/fc722a5465ffb93ece3d7cab2a31fc36d1a78075122943cec3901e72eb2cf55d/71722-g4.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/71722-g4.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/616a8b7d86ccaf25aad7712833d287e73b8ef0e34ce1fd0bc258e82e0f6c5d33/60726f0886997.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/71722/posters/60726f0886997.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/8fa39efabf90522069c5c9f2ed74c1fc2c93ea5379876aad2dcde8a2713bfc15/71722-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/71722-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bradley Walsh & Son: Breaking Dad",
+            "slug": "bradley-walsh-and-son-breaking-dad",
+            "year": 2019,
+            "tvdbId": 357539,
+            "imdbId": "tt9516768",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/9c738d065a4636f94c1e56fc46c60ff2c12c521df257c3027fc5bef3b868c354/5c2dfdc44dd1b.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5c2dfdc44dd1b.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/9dc35d69035c5c5381b0353c6ef50061d771b8fe7c2e6e6a6f6d7c91a613344f/5c2de14edea52.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/5c2de14edea52.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/a136db2564f774c2cea4dade313ef1324fa7bf787754e246388807ee070f2faf/5c2ddb4992f2a.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5c2ddb4992f2a.jpg"
+              }
+            ],
+            "status": "continuing",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 3,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 4,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Sequence Break",
+            "slug": "sequence-break",
+            "year": 2017,
+            "tvdbId": 336390,
+            "images": [],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Boy",
+            "slug": "bad-boy",
+            "year": 2018,
+            "tvdbId": 363701,
+            "imdbId": "tt8835516",
+            "images": [
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/d9e82034ea5af42cbf83b2cd15c6a4c904de85e0ed178ec304e9cc94a60141bb/615f961d189b3.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/363701/posters/615f961d189b3.jpg"
+              }
+            ],
+            "status": "continuing",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad and Crazy",
+            "slug": "bad-and-crazy",
+            "year": 2021,
+            "tvdbId": 404730,
+            "imdbId": "tt15146202",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/7e3212263d8b67b00c36553dfe26acb37c15e5809c567abb6d2b4d0cbdf85396/61bd5446c35b8.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/404730/banners/61bd5446c35b8.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/52104e675f870fe62dd1eec1846cc809df145ca4289cd018b2186f227bca3185/61bd309319dad.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/404730/posters/61bd309319dad.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/231a6387238738ff8361da1298835b09cfa3581cb05c9c334e1a04716d3b3fc2/6163de9f8f194.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/404730/backgrounds/6163de9f8f194.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Day",
+            "slug": "bad-day",
+            "year": 2018,
+            "tvdbId": 416209,
+            "imdbId": "tt10628202",
+            "images": [],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Beyond the Break",
+            "slug": "beyond-the-break",
+            "year": 2006,
+            "tvdbId": 79756,
+            "imdbId": "tt0448950",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/1375b0b238a890a312e9915f2fe78ead2a4633ed842a1bd3d9a44f4834fd3eb3/79756.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/blank/79756.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/293298691035c5b1919cf0b17b9cb4665b6a167c889a3e50ee54234db1ffbf93/79756-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/79756-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/082168d6e531c50eb8a7926e2ddbf842c1065647f954f028967062742f0b9ace/79756-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/79756-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 3,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Language",
+            "slug": "bad-language",
+            "year": 2018,
+            "tvdbId": 347789,
+            "images": [
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/3c3373534c9a98eafc81438126865be57d9aa23f81134390e90874d538596400/5afffc2bde8f4.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5afffc2bde8f4.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Sugar",
+            "slug": "bad-sugar",
+            "year": 2012,
+            "tvdbId": 261278,
+            "imdbId": "tt2129898",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/140dc3b9a82f5ed1fa6c7ce3a78e6a6325dee2ac584f1a5e20e3197608a96cf7/261278-g2.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/261278-g2.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/1f96f77696ee2e441b8eb58ca13d4357054c5383cf35c4b74b0dadc54b50e212/261278-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/261278-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/54357efafd8526f5b08482f105e5a2f9b4500a1672d79b1dda52a1117d049d64/261278-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/261278-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Vegan: Fame. Fraud. Fugitives.",
+            "slug": "bad-vegan-fame-fraud-fugitives",
+            "year": 2022,
+            "tvdbId": 410441,
+            "imdbId": "tt18260538",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/13d0b0397d40ba23813c956c5880163186eb9969e1141768ab89d757de73ddd5/623194151b4af.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/410441/banners/623194151b4af.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/e6eeb6db2e17b9430b9cf4185266e8aac1e426f0528ef59130786d6cdc9e5f01/626c545585e4e.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/410441/posters/626c545585e4e.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/d27137b6924517dcf49ae0cacd4ce80068cc27680e14bf31d5adb6e5cf1d422e/62318f8ed08b2.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/410441/backgrounds/62318f8ed08b2.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Days",
+            "slug": "bad-days",
+            "year": 2012,
+            "tvdbId": 269927,
+            "imdbId": "tt3803130",
+            "images": [
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/e0ba3bc6930f52033b97c56a2213e4ac684a72ba662d8b2b96abbb66afe82dde/269927-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/269927-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 3,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Ink",
+            "slug": "bad-ink",
+            "year": 2013,
+            "tvdbId": 271962,
+            "imdbId": "tt3116986",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/5031bb45013d253bfb6d607b48e3cb4ea0993bbf18ad1c22c7cdb531dbc3d8d2/271962-g2.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/271962-g2.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/8d749b0c567e0cd07a17ba5c31e988b7effd9f2ac2b80a536f66c4cbdad5f968/271962-2.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/271962-2.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/405f68a12c87d02d95bade6e21bce1faf5cae5b3fb308e1a188dfe222df6a5ce/271962-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/271962-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Day Break",
+            "slug": "day-break",
+            "year": 2006,
+            "tvdbId": 79509,
+            "imdbId": "tt0801425",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/1b03d6a3c5456b78cb92a27d2be846e2f3e957f1f777ce7ed86d762285393bfa/79509-g3.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/79509-g3.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/4e4c78cbbc5fa147fdbea374c2cd22c637d2a4dd1d8d45caf612bd3536f59582/79509-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/79509-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/81e2237a8831786a189df057088977eb1d2470f663a14a6284aa50d02c66c3aa/79509-2.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/79509-2.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Living",
+            "slug": "bad-living",
+            "year": 2008,
+            "tvdbId": 105191,
+            "imdbId": "tt2097031",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/f70b11bfea2b08fb560065272656caa2b84904d0a8623b356d0a9bbc77811136/105191-g4.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/105191-g4.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/e8c28fb7a90054495e45a2980d16bc17871ca632b11d60aef7133f357e8bf40a/105191-2.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/105191-2.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/7df63f1d4a38f61c5747820392259bc18f4045c593b81d1dedebfc137f242e6f/105191-2.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/105191-2.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 3,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "The Break",
+            "slug": "the-break",
+            "year": 2016,
+            "tvdbId": 299827,
+            "imdbId": "tt4792480",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/3d47b329aa9839c2cb288e57b32b4e84f82d1399b4329495e8cb94c8b6f1c9e8/299827-g.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/299827-g.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/856d1789d887ebc0bdfe94e38f418cfb2843b5e42240b243f6697fd8bdd314e9/604bf0353e318.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/299827/posters/604bf0353e318.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/60e09cf91554b0c2ee92d93ca61beceeb0c8ca0db825276461bc99583dbfd94e/62095670.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/series/299827/backgrounds/62095670.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "The Break",
+            "slug": "the-break",
+            "year": 2016,
+            "tvdbId": 345437,
+            "imdbId": "tt5191128",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/e7d1c3d947b660a11412ffebdd2bda32c7dbdf30870ae3f4674b0dc7fbd2e96c/345437-g.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/345437-g.jpg"
+              }
+            ],
+            "status": "continuing",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 3,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 4,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 5,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "The Breaks",
+            "slug": "the-breaks",
+            "year": 2017,
+            "tvdbId": 323833,
+            "imdbId": "tt6110624",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/c778b8de511c14fe7897e46116c7d745230ecb4cb57eda9197673c05514d1ad0/323833-g3.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/323833-g3.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/0b84e0435438f346301817534aa852727d0920acc058bb1fde20366049f06f0b/323833-2.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/323833-2.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/2e2429c27d5e99b6a55506ef672d9a1be583ed913c976c20098845faa2f4121d/323833-2.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/323833-2.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Big Bad BBQ Brawl",
+            "slug": "big-bad-bbq-brawl",
+            "year": 2015,
+            "tvdbId": 296519,
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/d2f03ebfc76e3174fd07492049d382b77b89179ce047e399932c4c2d2dff9099/296519-g.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/296519-g.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/fa89c4648b396dc3a0e025cfadada34a65e810d2cf5ab7274b3a516b3cc03c9f/296519-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/296519-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/47234f27a62add295b711682ea036adbae1bc47da62f9bb97eabec2ee0d43dab/5b3d97646083c.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5b3d97646083c.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 3,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "The Bad Batch",
+            "slug": "the-bad-batch",
+            "year": 2021,
+            "tvdbId": 385376,
+            "imdbId": "tt12708542",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/932341144915b0c7e9a0f8129494b6ca2f1e3af46f082cbbfd9e31d9e3802e6e/6091e18824674.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/385376/banners/6091e18824674.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/921893558226835a52406d3129b9f80542ddbb87fb544df30299e3fec9802e74/606485978d16f.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/385376/posters/606485978d16f.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/3f8538639e141d8e85fa6716f7aa80467d9aff5aafcadf8718c524a5505633d1/606728767fc9d.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/385376/backgrounds/606728767fc9d.jpg"
+              }
+            ],
+            "status": "continuing",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Bridesmaid",
+            "slug": "bad-bridesmaid",
+            "year": 2014,
+            "tvdbId": 285954,
+            "images": [
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/95cbd23639a9aef32907931f10fe63f47cabc397c3b4cd0139629b03945f187e/285954-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/285954-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Lucky Break",
+            "slug": "lucky-break",
+            "year": 2019,
+            "tvdbId": 363559,
+            "imdbId": "tt10133388",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/fe4a518366506549b3ba9300b19fb5a29808981a0ea7f9b2ed73f2ce3df3f2e9/5d153fd26a62c.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5d153fd26a62c.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/cb8fbb61df48e893752dffcc4b06cfbb5c1380db9b9c738b601fb1ab5bcd771a/605aa24342ef6.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/363559/posters/605aa24342ef6.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/7c8ad40e5da996d1df8b5b967f57fbd3070ccff121aeff2245ccb1e1e5e59621/5ceabb48960e0.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5ceabb48960e0.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 3,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 4,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Underbelly",
+            "slug": "underbelly",
+            "year": 2008,
+            "tvdbId": 81346,
+            "imdbId": "tt1119176",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/6267599bc622cf658a682ceb6dedd135c6532723b2dbc51cfb1ebe914f6428ae/81346-g11.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/81346-g11.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/6d68dc077d54ea9d4726ba8c24fc5223460f0d2753f07d06da4dfdf66ed2a891/81346-10.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/81346-10.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/6f21bcac30c2841b81fcb90f927e26a81c47041321dd74f86e2c042f62204491/81346-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/81346-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 3,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 4,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 5,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 6,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 7,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Internet",
+            "slug": "bad-internet",
+            "year": 2016,
+            "tvdbId": 312645,
+            "imdbId": "tt5761636",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/51e986c46b9b0b8739f2105bd5585b3a6f74e547e2bc3783f8c25eb659aa79d5/312645-g.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/312645-g.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/6a593e863d736962b529a3ecb12280e4d02bd997652c238087c0598d3d8e9483/312645-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/312645-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/be6d0668bf34498e849e9a498190a6c926a8f2fb1ae7dfbdb473dac37ce97e21/312645-2.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/312645-2.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Judge",
+            "slug": "bad-judge",
+            "year": 2014,
+            "tvdbId": 281595,
+            "imdbId": "tt2769470",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/cf3962d195bc88ac332ad01ff333e98a9d805bfb6e56b09abcbf3a60ed4a6c69/281595-g2.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/281595-g2.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/f9d6dd072329ea34e33d2476d6ba317055f812f33059fcfacceb4e60a85554ed/281595-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/281595-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/2122d76678165b57942f17a4ff091a0eb3752cf69b229aa2fdd0658c10bea5ee/281595-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/281595-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "The Bad Seed",
+            "slug": "the-bad-seed",
+            "year": 2019,
+            "tvdbId": 351900,
+            "imdbId": "tt8540882",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/fba4e798fa1b2d3081aada2354d498032c122b8135e120918b2aeaa3c007422c/61abfaf50799a.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/351900/banners/61abfaf50799a.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/c48d85ff8bd795b6d044a02aa2dbce249345dc397d1a849081ce6c7d5e7c3b4e/61abfb0c6618a.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/351900/posters/61abfb0c6618a.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/516cc4e283188918fac40e7d8c4dc5670ad5ba843c9c2af61373075e0cc3129d/5cb6f0cd3c7cb.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5cb6f0cd3c7cb.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Summer Break Diaries",
+            "slug": "summer-break-diaries",
+            "year": 2012,
+            "tvdbId": 262902,
+            "imdbId": "tt10042182",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/07fca3c8c634c2f0ad684c387df7ffc2a2a5e23dd9949f2dc26474d6102f9478/262902-g.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/262902-g.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/e64715692010eb645c552d0f6ef49f67066c93a5946d4636fcf7b150139b9f3a/262902-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/262902-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/969f5887f5464bc16439ba932f3e0136a9303ac5b796d7008870d72e35907345/262902-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/262902-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "The Bad Kids",
+            "slug": "the-bad-kids",
+            "year": 2020,
+            "tvdbId": 384075,
+            "imdbId": "tt12477942",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/201804932613d4610fbe1b4db2c08fc44e2e9cadbdf62c13e2478c661221c4ea/5eedfc32ead27.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/series/384075/banners/5eedfc32ead27.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/5895441b1e118e8f81402477b147a60f8a853ba31afe8da658874f6a79ac47fa/5f255af6d8531.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/series/384075/posters/5f255af6d8531.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/20dcdfba2021fecf75ba5e6f45aa187ee1251e398b54a100ae8315ddf4e8c530/62406db679d76.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/384075/backgrounds/62406db679d76.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "A Lucky Break",
+            "slug": "a-lucky-break",
+            "year": 2009,
+            "tvdbId": 413270,
+            "imdbId": "tt1429244",
+            "images": [
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/5185d4ee1336c625ae1e8a6a46099698626e5b8a7496d92a9d708154874d6c82/6205493ce8d6c.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/413270/posters/6205493ce8d6c.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "The Good, the Bad, the Corny: Radioactive",
+            "slug": "the-good-the-bad-the-corny-radioactive",
+            "year": 2021,
+            "tvdbId": 395998,
+            "imdbId": "tt13921170",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/742a4915c246bc6630fb4d40526c50f740715e4a32f67d74df3a7ef9566012cb/6013eb09e95bd.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/series/395998/banners/6013eb09e95bd.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/fdbd8755e38eb669fbfeef903fe48dd90fa47109f5e32e36d481e38e34bafc37/603978cee15c0.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/series/395998/posters/603978cee15c0.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/18ff69582e1cd771f454414110bee8f53fe2d5b0cb35eebe8f75c5f6a1af796d/6013e8808ec36.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/series/395998/backgrounds/6013e8808ec36.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Kamiki Ryunosuke's Filming Break",
+            "slug": "kamiki-ryunosukes-filming-break",
+            "year": 2022,
+            "tvdbId": 418041,
+            "images": [
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/9bf8c68a5587d0895c809e94ad2287815e110a35e59e63faeff6039dba510ac7/6237e0b9e3dc8.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/418041/posters/6237e0b9e3dc8.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Guys",
+            "slug": "bad-guys",
+            "year": 2014,
+            "tvdbId": 285789,
+            "imdbId": "tt3914520",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/77f64bc890248ceacc2abd2813cb5a096c0832c3d48188f61ce3bdc867dcf613/285789-g2.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/285789-g2.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/541ec4e81824ac92fe1ae240b45311e857c2c67c8a58b951c834ad7b55613615/285789-7.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/285789-7.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/d11accd1fc272b445990916696c427c0eba9b32d4946dc2b4800df273dd1b4b6/285789-3.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/285789-3.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Dog!",
+            "slug": "bad-dog",
+            "year": 2010,
+            "tvdbId": 251599,
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/2a11d62919ffb5b33fd9980a5b20d5c44f76ceb8a0f2e7d6447166787d662229/251599-g.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/251599-g.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/6bd43a0ce0013fbf168a0f4731d80e0d001b972b128ad1bc42932704f5d817a3/251599-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/251599-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/d50e61abfa187f2232f0e5e9624ad3a764fdeddd4f71451255a9ef2b05783e8c/251599-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/251599-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 3,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Lunch Break",
+            "slug": "lunch-break",
+            "year": 2016,
+            "tvdbId": 392146,
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/db4317fd2e742583649563c2109cfdf2cb239fa321f4f53e355700d67780e53e/5fb6766180fcf.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/series/392146/banners/5fb6766180fcf.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "We Are Too Bad at Love",
+            "slug": "we-are-too-bad-at-love",
+            "year": 2020,
+            "tvdbId": 391066,
+            "imdbId": "tt13424466",
+            "images": [
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/806a2afe9143e4056ac31d5936e602be9369d6d3cab816bc124d6055d1153de7/5f9953e1e0e5d.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/series/391066/posters/5f9953e1e0e5d.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/af7d89eb2cdfe260f9e7d22d2fe5b41c3b540704e3f53e6253b4d011a724e80c/6146b6383de87.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/391066/backgrounds/6146b6383de87.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Guy",
+            "slug": "bad-guy",
+            "year": 2010,
+            "tvdbId": 173331,
+            "imdbId": "tt2090230",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/ea2c6f99c8f96b9117e4258a9731c66abbd1a65c5250402d43fbdcc908ba0244/173331-g.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/173331-g.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/40ead75af65da91a41e650039d84925b5b83fa527357812d868c3a267b78d57e/173331-3.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/173331-3.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/2673ddb44e883960b758b1c1364777e458edb3df363452304996f36f371ec42c/173331-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/173331-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Robots",
+            "slug": "bad-robots",
+            "year": 2014,
+            "tvdbId": 288106,
+            "imdbId": "tt4613726",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/b575aaaf5c63b826f32ed3ed79e137522705d0e311b9b367d4f96bd71b10d653/288106-g2.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/288106-g2.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/26751fd4af9c76393567e967aa5e783483d42398d53e8121f2d1433da9027eb0/288106-2.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/288106-2.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/c43f485e4c04c92096486c47ea889776aae79f1603b3e69517afc1aecac7f421/288106-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/288106-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Girls",
+            "slug": "bad-girls",
+            "year": 1999,
+            "tvdbId": 75328,
+            "imdbId": "tt0203248",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/4f8d5fcc495b896bebc384cd6f5c828c79db215ad3bb7df6771da5eb8cbe3df0/75328-g3.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/75328-g3.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/2276a2c180990d8a5f6bd025b3be2f81d0423fc11c9a49ba390788e023b430e5/75328-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/75328-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/248bbc10a38de8c8f14b3bde9d8e30b33852fec60c0dc903c18fb9b2a3cf55fc/75328-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/75328-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 3,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 4,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 5,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 6,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 7,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 8,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "After the Break",
+            "slug": "after-the-break",
+            "year": 1996,
+            "tvdbId": 330016,
+            "images": [],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Summer Break",
+            "slug": "summer-break",
+            "year": 2013,
+            "tvdbId": 330327,
+            "imdbId": "tt4364258",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/45fac4d1789a5d20df53751fc174beb04e07476b109957e4d97f5458aeec0f88/330327-g.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/330327-g.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/b187bffdafc7736518b7094bea64e61f4ad5dd243c43194e3beda63f362b5f1f/5c2b8a7a413df.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/5c2b8a7a413df.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 3,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 4,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 5,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Love (2019)",
+            "slug": "bad-love-2019",
+            "year": 2019,
+            "tvdbId": 372710,
+            "images": [],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Teacher",
+            "slug": "bad-teacher",
+            "year": 2014,
+            "tvdbId": 270102,
+            "imdbId": "tt2714046",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/1b3a8c71a141bb48c0181d5571d6a2cda0cfac0cc6b96fa29457948008dba2af/270102-g.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/270102-g.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/ff07df2c3479ef48a23137d630d00fa1888ecf52ab39c019e38febe88ee1a245/270102-3.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/270102-3.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/5001e9af4d6773209ebdf0d1a800f591e08084b6367b1f3897d9f3a834f00caa/270102-4.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/270102-4.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Creepypasta",
+            "slug": "bad-creepypasta",
+            "year": 2013,
+            "tvdbId": 384783,
+            "imdbId": "tt7464882",
+            "images": [],
+            "status": "continuing",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 3,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 4,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 5,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 6,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Ryoma Takeuchi's Filming Break",
+            "slug": "ryoma-takeuchis-filming-break",
+            "year": 2020,
+            "tvdbId": 403349,
+            "images": [
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/4afb9d0e892d6ec95d8f5ea0a233354201c6f0520a1ad76d357e6d943c60ba64/60aa35741d7ea.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/403349/posters/60aa35741d7ea.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/fbbef57412f99678c1041cb45abd44f04fa019d3c9323824aeece6cc060619fb/6146b58a89941.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/403349/backgrounds/6146b58a89941.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Influencer",
+            "slug": "bad-influencer",
+            "year": 2019,
+            "tvdbId": 369262,
+            "images": [
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/21f5f0989ad0b6f741fd3a9a14263ca1cb03b9a8a476ebc52e8dc0d44ab9ac3b/5da0be2a4ce93.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/5da0be2a4ce93.jpg"
+              }
+            ],
+            "status": "continuing",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Move",
+            "slug": "bad-move",
+            "year": 2017,
+            "tvdbId": 334688,
+            "imdbId": "tt7387350",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/4d4c3145d7cc7159500c191172c4520f65439d1f44403657a0bbd9e419661dbf/334688-g.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/334688-g.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/d19cce56aa8cdbb6dc5fc2d00cfaafb74dff975a195a7f5ecf46d80182a5da48/334688-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/334688-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/b1373989545e32d2709baf310679d4faed3d0a96c0d6b91b267ec03c54b4efd9/334688-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/334688-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Influencers",
+            "slug": "bad-influencers",
+            "year": 2017,
+            "tvdbId": 340988,
+            "images": [],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Sport",
+            "slug": "bad-sport",
+            "year": 2021,
+            "tvdbId": 410042,
+            "imdbId": "tt15402912",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/56cf32e8bec8dc8d48321780acd2ad917ac90640780073594915134103338351/6193cf279e22b.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/410042/banners/6193cf279e22b.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/fcb15a9a85429cf716ff70fec13dedc93f4ca53065c490fafc711a20d880aa33/61619e5e55458.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/410042/posters/61619e5e55458.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/0209272c15c8565faef1c132c77bb619e6a7873557f7e50fc38814cc187ea2b4/6142450fc9be5.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/410042/backgrounds/6142450fc9be5.jpg"
+              }
+            ],
+            "status": "continuing",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Roommate",
+            "slug": "bad-roommate",
+            "year": 2021,
+            "tvdbId": 397249,
+            "imdbId": "tt14237084",
+            "images": [
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/a8457ffa5fb6537d21c6ba38c8b2f100af47fdc88afd72f8bc6444a863ec30f6/603c7bd8cc8a4.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/series/397249/posters/603c7bd8cc8a4.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/55c1a3bba2cebcf56e9b4a74f18315f80fcd50538b7344b6868797e17b9675ec/603fd86793417.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/series/397249/backgrounds/603fd86793417.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Fallout: Nuka Break",
+            "slug": "fallout-nuka-break",
+            "year": 2011,
+            "tvdbId": 248588,
+            "imdbId": "tt2056910",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/bb6cd7572316f22cad034a3d3483fed393647946e96ae7b10e1b0ced17bdcee0/248588.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/text/248588.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/678dcf2b38f4eac894ad7e21509b6ef2620d3409b7d2781af392f94ae3de77f5/248588-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/248588-1.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/f99905bc74473e354156c0dee5e2d83ec880bbce1d803010f17d9af6883f581e/248588-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/248588-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 0,
+                "monitored": false
+              },
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              },
+              {
+                "seasonNumber": 2,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Mothers",
+            "slug": "bad-mothers",
+            "year": 2019,
+            "tvdbId": 357523,
+            "imdbId": "tt9336906",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/86be8150f5bfb78ee570aadd3eb7b58d2fa41074f33edf7c8284646488e79779/5c6aaa1f9a77d.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5c6aaa1f9a77d.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/7a68d5d2e69f7233f3fd34b5516d5c811e2cbc22c014d82829d94fa2a5dc4c9d/5c6aa4e5236c2.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/5c6aa4e5236c2.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/c6f3630c6130df8b9a7f81cf4030bc7b602c92baf3407149380368093bf3e8fe/5c5842cf35125.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5c5842cf35125.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Matt & Bird Break Loose",
+            "slug": "matt-and-bird-break-loose",
+            "year": 2021,
+            "tvdbId": 411420,
+            "imdbId": "tt15508464",
+            "images": [
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/c6c857378619c8b9c1968aeb7be1ed791a97507ca6d3f6aa36c3f357a5a863b3/625828b65dec7.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/411420/posters/625828b65dec7.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/e3281510b0eff9cc514332f36302bdcd7d85d015e14e4342f4a8ca3b9b8e2789/6168be144e1cd.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/411420/backgrounds/6168be144e1cd.jpg"
+              }
+            ],
+            "status": "continuing",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Boy Billionaires: India",
+            "slug": "bad-boy-billionaires-india",
+            "year": 2020,
+            "tvdbId": 387191,
+            "images": [
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/11ae485bfc11e59b29082f0b67ca21deac5628bc065291dec06bc6f8b1d326cc/5fc916f64da19.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/series/387191/posters/5fc916f64da19.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/1b870381402c07850068fddfd371cc3666729cf1bb164a74a0365da442d880fd/5f3f0325a554f.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/series/387191/backgrounds/5f3f0325a554f.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Bad Girl: Glass Ceiling Crushers",
+            "slug": "bad-girl-glass-ceiling-crushers",
+            "year": 2022,
+            "tvdbId": 417387,
+            "images": [
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/b5c89d56638cc991b1c51c9ae990217bf8afe75cdb3aa5e919f83f2b7abcb02c/6256a77672a8c.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/417387/posters/6256a77672a8c.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/c1ef0f01f115b5953f9c598681e058a093b811ca1195b37165b716c1c8faf6b2/6256a6ea2b2c7.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/417387/backgrounds/6256a6ea2b2c7.jpg"
+              }
+            ],
+            "status": "continuing",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "World Break: Aria of Curse for a Holy Swordsman",
+            "slug": "world-break-aria-of-curse-for-a-holy-swordsman",
+            "year": 2015,
+            "tvdbId": 286855,
+            "imdbId": "tt4219244",
+            "images": [
+              {
+                "coverType": "banner",
+                "url": "/MediaCoverProxy/d2d18f0e2260471ad45ef2b7f6ec30525d14c4462ca0dc8f123895c2441da15c/286855-g.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/286855-g.jpg"
+              },
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/bc4e3109159e634e3425659aa65be7d9b404e4b1f4169f21c178f01db4103047/286855-3.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/posters/286855-3.jpg"
+              },
+              {
+                "coverType": "fanart",
+                "url": "/MediaCoverProxy/3cac36827e51887aa441a49086eb2743c6036cc42920e18ba87db7c17a3bd8df/286855-1.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/286855-1.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
+          },
+          {
+            "title": "Break It All: The History of Rock in Latin America",
+            "slug": "break-it-all-the-history-of-rock-in-latin-america",
+            "year": 2020,
+            "tvdbId": 392762,
+            "imdbId": "tt13570366",
+            "images": [
+              {
+                "coverType": "poster",
+                "url": "/MediaCoverProxy/5d05d84aff7fce5f587af04d416b21cbdb0cefd7efe6c61fd8c1ecbf4a5aacb5/5fdbad9f91edd.jpg",
+                "remoteUrl": "https://artworks.thetvdb.com/banners/series/392762/posters/5fdbad9f91edd.jpg"
+              }
+            ],
+            "status": "ended",
+            "quality": "",
+            "seasons": [
+              {
+                "seasonNumber": 1,
+                "monitored": true
+              }
+            ]
           }
         ],
-        "yesAction": "addMovie",
-        "yesResponse": "Added The Boy (2016) to your list of movies to download.",
-        "noAction": "suggestNextMovie",
-        "noResponse": "Ok, did you mean The Boy Next Door (2015)?"
+        "providerType": "shows",
+        "yesAction": "addMedia",
+        "yesResponse": "Added Breaking Bad to your list of shows to download.",
+        "noAction": "suggestNext",
+        "noResponse": "Ok, did you mean Breaking Band?"
       }
     },
     "user": {
@@ -594,7 +3369,7 @@
     "requestId": "EdwRequestId.1234",
     "timestamp": "2016-01-01T00:00:00Z",
     "intent": {
-      "name": "AMAZON.NoIntent",
+      "name": "AMAZON.YesIntent",
       "slots": {}
     }
   }

@@ -1,0 +1,2157 @@
+{
+	"version": "1.0",
+	"session": {
+		"new": false,
+		"sessionId": "amzn1.echo-api.session.29bafd51-96bc-4e2d-9041-b44ebca57eb8",
+		"application": {
+			"applicationId": "amzn1.ask.skill.d2753a91-df39-43aa-9e46-9299098f2641"
+		},
+		"attributes": {
+			"promptData": {
+				"searchResults": [
+					{
+						"title": "Dark Knight",
+						"slug": "dark-knight",
+						"year": 2000,
+						"tvdbId": 265183,
+						"imdbId": "tt0251504",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/265183-g2.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/265183-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Dark Knight",
+						"slug": "dark-knight",
+						"year": 2002,
+						"tvdbId": 85525,
+						"images": [
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/85525-3.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "The Pedal Knights",
+						"slug": "the-pedal-knights",
+						"year": 2011,
+						"tvdbId": 252689,
+						"images": [],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "The Monday Knights",
+						"slug": "the-monday-knights",
+						"year": 2012,
+						"tvdbId": 279365,
+						"images": [],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "The Dark Heart",
+						"slug": "the-dark-heart",
+						"year": 2022,
+						"tvdbId": 416139,
+						"imdbId": "tt17275654",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/416139/banners/620dfed52c478.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/416139/posters/62069736813a2.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/416139/backgrounds/6207ad10e0828.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "The dark files",
+						"slug": "the-dark-files",
+						"year": 2017,
+						"tvdbId": 334194,
+						"imdbId": "tt7000652",
+						"images": [
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/334194-1.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/334194-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "The Dark Magistrate",
+						"slug": "the-dark-magistrate",
+						"year": 1975,
+						"tvdbId": 390207,
+						"images": [
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/series/390207/posters/5f8947e7c97d6.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "The Dark Harvest",
+						"slug": "the-dark-harvest",
+						"year": 2018,
+						"tvdbId": 383853,
+						"images": [
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/series/383853/backgrounds/5ee4a6c97b162.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Tenkai Knights",
+						"slug": "tenkai-knights",
+						"year": 2013,
+						"tvdbId": 272556,
+						"imdbId": "tt3401416",
+						"images": [
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/272556/posters/61a3c04ceb329.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/272556/backgrounds/61a3c0da7d8d0.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "The Dark Hour",
+						"slug": "the-dark-hour",
+						"year": 2021,
+						"tvdbId": 411802,
+						"images": [],
+						"status": "continuing",
+						"quality": ""
+					},
+					{
+						"title": "Black Knight",
+						"slug": "black-knight",
+						"year": 2022,
+						"tvdbId": 405921,
+						"imdbId": "tt17013106",
+						"images": [],
+						"status": "upcoming",
+						"quality": ""
+					},
+					{
+						"title": "Black Knight",
+						"slug": "black-knight",
+						"year": 2017,
+						"tvdbId": 337831,
+						"imdbId": "tt7608190",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/337831-g3.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/337831-2.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/337831-2.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Dream Knight",
+						"slug": "dream-knight",
+						"year": 2015,
+						"tvdbId": 297386,
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/297386-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/297386-1.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/297386-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "The Dark Web",
+						"slug": "the-dark-web",
+						"year": 2019,
+						"tvdbId": 401313,
+						"images": [
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/401313/backgrounds/608eae3cef407.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "The Dark Room",
+						"slug": "the-dark-room",
+						"year": 1999,
+						"tvdbId": 271414,
+						"imdbId": "tt0186945",
+						"images": [],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Love At Night",
+						"slug": "love-at-night",
+						"year": 2021,
+						"tvdbId": 402569,
+						"imdbId": "tt15988702",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/402569/banners/6099a6c0154aa.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/402569/posters/618e5a9cd5df7.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Let Me Be Your Knight",
+						"slug": "let-me-be-your-knight",
+						"year": 2021,
+						"tvdbId": 377959,
+						"imdbId": "tt15729630",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/377959/banners/61964e5cce501.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/377959/posters/617eecd6bb588.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/377959/backgrounds/615f0b9aaf8d0.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Try Knights",
+						"slug": "try-knights",
+						"year": 2019,
+						"tvdbId": 361754,
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/5d8bec12ee219.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/5d1b78284075e.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/5c9f7e8b11a70.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Tekkaman: The Space Knight",
+						"slug": "tekkaman-the-space-knight",
+						"year": 1975,
+						"tvdbId": 213261,
+						"imdbId": "tt0294200",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/213261-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/213261/posters/60ebf88893d72.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "M3: The Dark Metal",
+						"slug": "m3-the-dark-metal",
+						"year": 2014,
+						"tvdbId": 279829,
+						"imdbId": "tt3618122",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/279829-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/5bc8882b3d85e.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/279829-2.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "In the Dark (2019)",
+						"slug": "in-the-dark-2019",
+						"year": 2019,
+						"tvdbId": 347645,
+						"imdbId": "tt7772602",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/series/347645/banners/5f3f3b15ac646.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/5ce933acd4d03.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/5c9d967092f68.jpg"
+							}
+						],
+						"status": "continuing",
+						"quality": ""
+					},
+					{
+						"title": "A Tale Dark & Grimm",
+						"slug": "a-tale-dark-and-grimm",
+						"year": 2021,
+						"tvdbId": 405447,
+						"imdbId": "tt2386826",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/405447/banners/615b0c9608fa9.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/405447/posters/615b03edbd8df.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/405447/backgrounds/61550e01d7a84.jpg"
+							}
+						],
+						"status": "continuing",
+						"quality": ""
+					},
+					{
+						"title": "Vampire Knight",
+						"slug": "vampire-knight",
+						"year": 2008,
+						"tvdbId": 81816,
+						"imdbId": "tt1209393",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/81816-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/81816-5.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/81816-3.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Ten Dark Women",
+						"slug": "ten-dark-women",
+						"year": 2016,
+						"tvdbId": 318348,
+						"imdbId": "tt5919998",
+						"images": [
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/318348-2.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "The Dark: Nature's Nighttime World",
+						"slug": "the-dark-natures-nighttime-world",
+						"year": 2012,
+						"tvdbId": 261065,
+						"imdbId": "tt2842614",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/261065-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/261065-2.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/261065-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "No Matter how Dark the Night is",
+						"slug": "no-matter-how-dark-the-night-is",
+						"year": 2020,
+						"tvdbId": 392593,
+						"imdbId": "tt13511190",
+						"images": [
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/series/392593/posters/5ffe301a45090.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/series/392593/backgrounds/5ffe302ed2215.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Vanny Knights",
+						"slug": "vanny-knights",
+						"year": 1999,
+						"tvdbId": 280760,
+						"imdbId": "tt0204109",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/280760-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/280760-1.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/5d3c9de8c3cd6.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "BIMA Satria Garuda",
+						"slug": "bima-satria-garuda",
+						"year": 2013,
+						"tvdbId": 309028,
+						"imdbId": "tt2994282",
+						"images": [
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/309028-1.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/309028-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Moon Knight",
+						"slug": "moon-knight",
+						"year": 2022,
+						"tvdbId": 368611,
+						"imdbId": "tt10234724",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/368611/banners/624dd5f0bac14.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/368611/posters/61e6312067bc9.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/368611/backgrounds/622a7221c7fb6.jpg"
+							}
+						],
+						"status": "continuing",
+						"quality": ""
+					},
+					{
+						"title": "Nibiiro no Hako no Naka de",
+						"slug": "nibiiro-no-hako-no-naka-de",
+						"year": 2020,
+						"tvdbId": 381141,
+						"imdbId": "tt13743918",
+						"images": [],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "It's Dark Outside",
+						"slug": "its-dark-outside",
+						"year": 1964,
+						"tvdbId": 283446,
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/series/283446/banners/5ef3d78f99982.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/283446-1.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/283446-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Princess Knight",
+						"slug": "princess-knight",
+						"year": 1965,
+						"tvdbId": 250920,
+						"imdbId": "tt0121655",
+						"images": [
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/5bfca434900c3.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "The Knights Templar",
+						"slug": "the-knights-templar",
+						"year": 2000,
+						"tvdbId": 84981,
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/84981-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/84981-2.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/84981-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Cinderella and Four Knights",
+						"slug": "cinderella-and-four-knights",
+						"year": 2016,
+						"tvdbId": 313816,
+						"imdbId": "tt5764414",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/313816-g3.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/5c2fb878118b3.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/313816-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Dark City",
+						"slug": "dark-city",
+						"year": 2019,
+						"tvdbId": 382110,
+						"images": [
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/series/382110/posters/5f688f15b90fa.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/series/382110/backgrounds/5eb78563b42af.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Into The Dark",
+						"slug": "into-the-dark",
+						"year": 2021,
+						"tvdbId": 413441,
+						"images": [
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/413441/posters/61b913e45a211.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/413441/backgrounds/61b93152ab187.jpg"
+							}
+						],
+						"status": "continuing",
+						"quality": ""
+					},
+					{
+						"title": "Lady of the Darkness",
+						"slug": "lady-of-the-darkness",
+						"year": 2022,
+						"tvdbId": 415949,
+						"imdbId": "tt18341398",
+						"images": [
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/415949/posters/62176628d4f17.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/415949/backgrounds/6201581def17e.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Into the Dark",
+						"slug": "into-the-dark",
+						"year": 2018,
+						"tvdbId": 347115,
+						"imdbId": "tt8427140",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/5ccf5ee0b0c1e.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/5c3cbc5384063.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/5bb15840c93d5.jpg"
+							}
+						],
+						"status": "continuing",
+						"quality": ""
+					},
+					{
+						"title": "Through the Darkness",
+						"slug": "through-the-darkness",
+						"year": 2022,
+						"tvdbId": 413520,
+						"imdbId": "tt15007172",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/413520/banners/61eb72969899a.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/413520/posters/61d8ef51aefc2.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/413520/backgrounds/61e2b9ca517f5.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Dark Tourist",
+						"slug": "dark-tourist",
+						"year": 2018,
+						"tvdbId": 350264,
+						"imdbId": "tt8725166",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/5b51ff192db4f.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/series/350264/posters/5eafd262ada2e.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/5b535595dbd35.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Dark Rising",
+						"slug": "dark-rising",
+						"year": 2011,
+						"tvdbId": 230751,
+						"imdbId": "tt1802564",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/230751-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/230751-1.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/230751-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "AEW Dark: Elevation",
+						"slug": "aew-dark-elevation",
+						"year": 2021,
+						"tvdbId": 398727,
+						"imdbId": "tt14130026",
+						"images": [
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/398727/posters/6057055917498.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/398727/backgrounds/61cbb303655c0.jpg"
+							}
+						],
+						"status": "continuing",
+						"quality": ""
+					},
+					{
+						"title": "Dark Ages",
+						"slug": "dark-ages",
+						"year": 1999,
+						"tvdbId": 77876,
+						"imdbId": "tt0227890",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/77876-g.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "After Dark",
+						"slug": "after-dark",
+						"year": 2020,
+						"tvdbId": 390873,
+						"imdbId": "tt13339138",
+						"images": [
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/series/390873/posters/5fd9b686641b2.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "After Dark",
+						"slug": "after-dark",
+						"year": 1987,
+						"tvdbId": 382328,
+						"imdbId": "tt1134863",
+						"images": [
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/series/382328/panels/5ebd3aaf92fc3.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "The Knight in the Area",
+						"slug": "the-knight-in-the-area",
+						"year": 2012,
+						"tvdbId": 254660,
+						"imdbId": "tt2176177",
+						"images": [
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/254660-2.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/254660-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Dark Heart",
+						"slug": "dark-heart",
+						"year": 2018,
+						"tvdbId": 319359,
+						"imdbId": "tt5866284",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/5bdb5bd989d37.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/5be768051cf7f.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/319359-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Dark Winds",
+						"slug": "dark-winds",
+						"year": 2022,
+						"tvdbId": 406179,
+						"imdbId": "tt15017118",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/406179/banners/625ec2467fdc4.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/406179/posters/625ec4f7c0046.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/406179/backgrounds/625daea884621.jpg"
+							}
+						],
+						"status": "upcoming",
+						"quality": ""
+					},
+					{
+						"title": "Edge of Darkness",
+						"slug": "edge-of-darkness",
+						"year": 1985,
+						"tvdbId": 71529,
+						"imdbId": "tt0090424",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/71529-g2.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/71529-4.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/71529-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Dark Mon£y",
+						"slug": "dark-mony",
+						"year": 2019,
+						"tvdbId": 364440,
+						"imdbId": "tt8201142",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/5d25739734f42.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/5d24b6f4c2be7.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/5dbaeb73a4e8d.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Louis Theroux: Dark States",
+						"slug": "louis-theroux-dark-states",
+						"year": 2017,
+						"tvdbId": 336034,
+						"imdbId": "tt7492256",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/336034-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/336034-2.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/336034-5.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "AEW Dark",
+						"slug": "aew-dark",
+						"year": 2019,
+						"tvdbId": 370561,
+						"imdbId": "tt11092482",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/5d9eb1f7e85f7.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/5d9eaee0a4d6a.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/5d9d134b849e5.jpg"
+							}
+						],
+						"status": "continuing",
+						"quality": ""
+					},
+					{
+						"title": "To LOVE-Ru",
+						"slug": "to-love-ru",
+						"year": 2008,
+						"tvdbId": 81831,
+						"imdbId": "tt1216222",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/81831-g2.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/81831-4.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/81831-3.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Dark Arts Paranormal",
+						"slug": "dark-arts-paranormal",
+						"year": 2015,
+						"tvdbId": 393453,
+						"images": [],
+						"status": "continuing",
+						"quality": ""
+					},
+					{
+						"title": "Knights",
+						"slug": "knights",
+						"year": 2015,
+						"tvdbId": 297073,
+						"imdbId": "tt6946620",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/297073-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/297073-2.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/297073-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Dating in the Dark",
+						"slug": "dating-in-the-dark",
+						"year": 2009,
+						"tvdbId": 102941,
+						"imdbId": "tt1477773",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/102941-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/102941-1.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/102941-2.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Dark Desire",
+						"slug": "dark-desire",
+						"year": 2020,
+						"tvdbId": 383611,
+						"imdbId": "tt12540080",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/series/383611/banners/5f0d10f7b4005.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/series/383611/posters/5f12eca8d8bf8.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/383611/backgrounds/615511cb11196.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "From Darkness",
+						"slug": "from-darkness",
+						"year": 2015,
+						"tvdbId": 300409,
+						"imdbId": "tt4511898",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/300409-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/300409-1.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/300409-3.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Dark System",
+						"slug": "dark-system",
+						"year": 2014,
+						"tvdbId": 278375,
+						"imdbId": "tt3366030",
+						"images": [
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/278375-1.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/278375-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Dark Warrior",
+						"slug": "dark-warrior",
+						"year": 1991,
+						"tvdbId": 401698,
+						"imdbId": "tt0285506",
+						"images": [
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/401698/posters/6084ccf3e1c43.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Knights of Bloodsteel",
+						"slug": "knights-of-bloodsteel",
+						"year": 2009,
+						"tvdbId": 140561,
+						"imdbId": "tt1264363",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/140561-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/140561-2.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/140561-4.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Darkness",
+						"slug": "darkness",
+						"year": 2017,
+						"tvdbId": 332152,
+						"imdbId": "tt7218390",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/332152-g2.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/332152-2.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/332152-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "So Dark",
+						"slug": "so-dark",
+						"year": 2016,
+						"tvdbId": 313450,
+						"imdbId": "tt5265192",
+						"images": [],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "The Knights of Prosperity",
+						"slug": "the-knights-of-prosperity",
+						"year": 2007,
+						"tvdbId": 79339,
+						"imdbId": "tt0494287",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/79339-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/79339-2.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/79339-6.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Knight Fight",
+						"slug": "knight-fight",
+						"year": 2019,
+						"tvdbId": 355927,
+						"imdbId": "tt9454974",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/5c4ad5965ebe8.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/5c49ba9867145.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/5c49bab86bfa7.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Dark Matters",
+						"slug": "dark-matters",
+						"year": 2011,
+						"tvdbId": 250734,
+						"imdbId": "tt2014554",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/250734-g3.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/250734-1.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/250734-5.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Requiem from the Darkness",
+						"slug": "requiem-from-the-darkness",
+						"year": 2003,
+						"tvdbId": 74957,
+						"imdbId": "tt1290729",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/29439-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/74957-1.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/74957-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Architects of Darkness",
+						"slug": "architects-of-darkness",
+						"year": 2017,
+						"tvdbId": 380888,
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/380888/banners/61d4173832725.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/series/380888/posters/5ea1c0418b286.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/380888/backgrounds/61d41845908bd.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Knights of Sidonia",
+						"slug": "knights-of-sidonia",
+						"year": 2014,
+						"tvdbId": 278154,
+						"imdbId": "tt3398976",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/278154-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/278154-3.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/278154-4.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Dark Shadows",
+						"slug": "dark-shadows",
+						"year": 1966,
+						"tvdbId": 73599,
+						"imdbId": "tt0059978",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/73599-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/73599-3.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/73599-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Brynhildr in the Darkness",
+						"slug": "brynhildr-in-the-darkness",
+						"year": 2014,
+						"tvdbId": 279396,
+						"imdbId": "tt3563898",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/279396-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/279396-1.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/279396-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "My Knight and Me",
+						"slug": "my-knight-and-me",
+						"year": 2017,
+						"tvdbId": 322116,
+						"imdbId": "tt5995728",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/322116-g4.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/322116-1.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/322116-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "The Knights of Castelcorvo",
+						"slug": "the-knights-of-castelcorvo",
+						"year": 2020,
+						"tvdbId": 389554,
+						"imdbId": "tt13302530",
+						"images": [
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/series/389554/posters/5fee03adb8dac.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/series/389554/backgrounds/5f8436578c512.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Dark Temptations",
+						"slug": "dark-temptations",
+						"year": 2014,
+						"tvdbId": 283484,
+						"images": [
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/283484-2.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/283484-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "42 Days of Darkness",
+						"slug": "42-days-of-darkness",
+						"year": 2022,
+						"tvdbId": 418730,
+						"imdbId": "tt15090462",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/418730/banners/6265d5f3ee682.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/418730/posters/628906812d076.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/418730/backgrounds/6270689f3d3a6.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Laugh After Dark",
+						"slug": "laugh-after-dark",
+						"year": 2018,
+						"tvdbId": 407874,
+						"imdbId": "tt8796840",
+						"images": [],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Rogue After Dark",
+						"slug": "rogue-after-dark",
+						"year": 2021,
+						"tvdbId": 409617,
+						"images": [],
+						"status": "continuing",
+						"quality": ""
+					},
+					{
+						"title": "Dark",
+						"slug": "dark",
+						"year": 2017,
+						"tvdbId": 334824,
+						"imdbId": "tt5753856",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/334824-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/334824-1.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/334824-7.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Naked After Dark",
+						"slug": "naked-after-dark",
+						"year": 2014,
+						"tvdbId": 279916,
+						"imdbId": "tt3585490",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/279916-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/279916-1.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/279916-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Home Before Dark",
+						"slug": "home-before-dark",
+						"year": 2020,
+						"tvdbId": 362004,
+						"imdbId": "tt6053512",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/series/362004/banners/5e7c912778ed7.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/series/362004/posters/62102837.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/series/362004/backgrounds/62102841.jpg"
+							}
+						],
+						"status": "continuing",
+						"quality": ""
+					},
+					{
+						"title": "Knight Errant",
+						"slug": "knight-errant",
+						"year": 1959,
+						"tvdbId": 388907,
+						"images": [],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Dark Sea, Moon Shadow",
+						"slug": "dark-sea-moon-shadow",
+						"year": 1989,
+						"tvdbId": 397205,
+						"imdbId": "tt13562014",
+						"images": [
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/397205/posters/6163c64e2b574.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "I'll Be Gone in the Dark",
+						"slug": "ill-be-gone-in-the-dark",
+						"year": 2020,
+						"tvdbId": 377346,
+						"imdbId": "tt8259114",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/series/377346/banners/5ef959af4d0de.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/series/377346/posters/5ef599b5b8566.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/series/377346/backgrounds/5f2ecd35583ce.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Weiß Kreuz",
+						"slug": "weiß-kreuz",
+						"year": 1998,
+						"tvdbId": 72922,
+						"imdbId": "tt0192943",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/72922-g3.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/72922-2.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/72922-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Knight & Daye",
+						"slug": "knight-and-daye",
+						"year": 1989,
+						"tvdbId": 78040,
+						"images": [],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Knights and Warriors",
+						"slug": "knights-and-warriors",
+						"year": 1992,
+						"tvdbId": 405161,
+						"imdbId": "tt0281458",
+						"images": [],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Animals After Dark",
+						"slug": "animals-after-dark",
+						"year": 2019,
+						"tvdbId": 357591,
+						"imdbId": "tt9541430",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/357591/banners/61d46da4ed295.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/series/357591/posters/5f2e5300ad5fb.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Darkness - Those Who Kill",
+						"slug": "darkness---those-who-kill",
+						"year": 2019,
+						"tvdbId": 360369,
+						"imdbId": "tt9466596",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/series/360369/banners/5ead494ff186c.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/5cd4b3d39f474.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/360369/backgrounds/61e0989c155f6.jpg"
+							}
+						],
+						"status": "continuing",
+						"quality": ""
+					},
+					{
+						"title": "Knights of God",
+						"slug": "knights-of-god",
+						"year": 1987,
+						"tvdbId": 123971,
+						"imdbId": "tt0161158",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/123971-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/123971-1.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/123971-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Dear My Loneliness And Darkness",
+						"slug": "dear-my-loneliness-and-darkness",
+						"year": 2022,
+						"tvdbId": 414453,
+						"imdbId": "tt16298642",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/414453/banners/61ee673cdeef5.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/414453/posters/6262b23e1672b.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/414453/backgrounds/61e261705d249.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Knight's & Magic",
+						"slug": "knights-and-magic",
+						"year": 2017,
+						"tvdbId": 327507,
+						"imdbId": "tt7124066",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/327507-g3.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/327507-2.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/327507-5.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Are You Afraid of the Dark? (2019)",
+						"slug": "are-you-afraid-of-the-dark-2019",
+						"year": 2019,
+						"tvdbId": 368145,
+						"imdbId": "tt10473306",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/368145/banners/620dbb43e3a94.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/5d7c3e4152248.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/5da638c3044b0.jpg"
+							}
+						],
+						"status": "continuing",
+						"quality": ""
+					},
+					{
+						"title": "Mystic Knights of Tir Na Nog",
+						"slug": "mystic-knights-of-tir-na-nog",
+						"year": 1998,
+						"tvdbId": 78218,
+						"imdbId": "tt0165588",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/78218-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/78218-1.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/78218-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Dark Shadows (1991)",
+						"slug": "dark-shadows-1991",
+						"year": 1991,
+						"tvdbId": 76925,
+						"imdbId": "tt0099363",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/76925-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/series/76925/posters/6003c7d996096.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/76925-2.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Knights of Ramune",
+						"slug": "knights-of-ramune",
+						"year": 1997,
+						"tvdbId": 370835,
+						"imdbId": "tt0370220",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/5da139c0013c7.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/5da139b23ba8f.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/5da139cdecdc1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Ulysses: Jeanne d'Arc and the Alchemist Knight",
+						"slug": "ulysses-jeanne-darc-and-the-alchemist-knight",
+						"year": 2018,
+						"tvdbId": 351049,
+						"imdbId": "tt8800144",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/5bcd035978d4e.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/5bba259d740fb.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/5b653d401ba87.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "VS Knight Lamune & 40 Fire",
+						"slug": "vs-knight-lamune-and-40-fire",
+						"year": 1996,
+						"tvdbId": 120121,
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/120121-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/120121-1.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/120121-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "VS Knight Lamune & 40 Fire",
+						"slug": "vs-knight-lamune-and-40-fire",
+						"year": 1996,
+						"tvdbId": 255143,
+						"imdbId": "tt0370220",
+						"images": [
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/5da134461f3dc.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/series/255143/backgrounds/5e969a2fb1268.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Dark Was the Night: The Life of Hitler",
+						"slug": "dark-was-the-night-the-life-of-hitler",
+						"year": 0,
+						"tvdbId": 404830,
+						"images": [],
+						"status": "upcoming",
+						"quality": ""
+					},
+					{
+						"title": "Dark Side of the Ring: After Dark",
+						"slug": "dark-side-of-the-ring-after-dark",
+						"year": 2020,
+						"tvdbId": 381793,
+						"imdbId": "tt12330936",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/series/381793/banners/5edac2f0dcbf4.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/series/381793/posters/5edac242b3d8a.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/series/381793/backgrounds/5ee22b2391fa1.jpg"
+							}
+						],
+						"status": "continuing",
+						"quality": ""
+					},
+					{
+						"title": "The Sons of Sam: A Descent into Darkness",
+						"slug": "the-sons-of-sam-a-descent-into-darkness",
+						"year": 2021,
+						"tvdbId": 400640,
+						"imdbId": "tt13156316",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/400640/banners/6093ebd226431.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/400640/posters/6070a00bce7d5.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/400640/backgrounds/606de042dc82c.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Tomato-Man and the Knights of the Salad Table",
+						"slug": "tomato-man-and-the-knights-of-the-salad-table",
+						"year": 1992,
+						"tvdbId": 382584,
+						"images": [],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Seven Knights Revolution: Hero Successor",
+						"slug": "seven-knights-revolution-hero-successor",
+						"year": 2021,
+						"tvdbId": 397907,
+						"imdbId": "tt13984000",
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/397907/banners/6166be34ed67e.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/397907/posters/606a141c23a5d.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/v4/series/397907/backgrounds/605a3f548d1fe.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					},
+					{
+						"title": "Dark Matter, Dark Energy - The Dark Side of the Universe",
+						"slug": "dark-matter-dark-energy---the-dark-side-of-the-universe",
+						"year": 2007,
+						"tvdbId": 85325,
+						"images": [
+							{
+								"coverType": "banner",
+								"url": "https://artworks.thetvdb.com/banners/graphical/85325-g.jpg"
+							},
+							{
+								"coverType": "poster",
+								"url": "https://artworks.thetvdb.com/banners/posters/85325-1.jpg"
+							},
+							{
+								"coverType": "fanart",
+								"url": "https://artworks.thetvdb.com/banners/fanart/original/85325-1.jpg"
+							}
+						],
+						"status": "ended",
+						"quality": ""
+					}
+				],
+				"providerType": "shows",
+				"yesAction": "addMedia",
+				"yesResponse": "Added Dark Knight to your list of shows to download.",
+				"noAction": "suggestNext",
+				"noResponse": "Ok, did you mean Dark Knight?"
+			}
+		},
+		"user": {
+			"userId": "amzn1.ask.account.AG5F22YHEMW57ZGQHIEAIC3JUQO2AOJGW4ZLZ4KRELOAF4XEJJMS7WYSQZTUP7EK4KS3JOSEX6NO3QROO75EK7UELCTELGSLCR27WUI7LP65JLCMQBOZJY4AV4HW7K5YD5DWICBPN6S35IJZTPHZZGEAZMMAF4WV5GK2SZGVNCKS52QVCVPMLI7IQRGV5GJLKYEZENXX67MEUBA"
+		}
+	},
+	"context": {
+		"Viewports": [
+			{
+				"type": "APL",
+				"id": "main",
+				"shape": "RECTANGLE",
+				"dpi": 213,
+				"presentationType": "STANDARD",
+				"canRotate": false,
+				"configuration": {
+					"current": {
+						"mode": "HUB",
+						"video": {
+							"codecs": [
+								"H_264_42",
+								"H_264_41"
+							]
+						},
+						"size": {
+							"type": "DISCRETE",
+							"pixelWidth": 1280,
+							"pixelHeight": 800
+						}
+					}
+				}
+			}
+		],
+		"Viewport": {
+			"experiences": [
+				{
+					"arcMinuteWidth": 346,
+					"arcMinuteHeight": 216,
+					"canRotate": false,
+					"canResize": false
+				}
+			],
+			"mode": "HUB",
+			"shape": "RECTANGLE",
+			"pixelWidth": 1280,
+			"pixelHeight": 800,
+			"dpi": 213,
+			"currentPixelWidth": 1280,
+			"currentPixelHeight": 800,
+			"touch": [
+				"SINGLE"
+			],
+			"video": {
+				"codecs": [
+					"H_264_42",
+					"H_264_41"
+				]
+			}
+		},
+		"Extensions": {
+			"available": {
+				"aplext:backstack:10": {}
+			}
+		},
+		"System": {
+			"application": {
+				"applicationId": "amzn1.ask.skill.d2753a91-df39-43aa-9e46-9299098f2641"
+			},
+			"user": {
+				"userId": "amzn1.ask.account.AG5F22YHEMW57ZGQHIEAIC3JUQO2AOJGW4ZLZ4KRELOAF4XEJJMS7WYSQZTUP7EK4KS3JOSEX6NO3QROO75EK7UELCTELGSLCR27WUI7LP65JLCMQBOZJY4AV4HW7K5YD5DWICBPN6S35IJZTPHZZGEAZMMAF4WV5GK2SZGVNCKS52QVCVPMLI7IQRGV5GJLKYEZENXX67MEUBA"
+			},
+			"device": {
+				"deviceId": "amzn1.ask.device.AG2SUD22BPZG7VP24ROR2FBDF7OL2OQYJAV6ARXO736TZGSV5E4IARXMOJ6WGXRCPAU5YICGPTLVAWISLLUT7OAGNLME2F2IXLOUX6BNX5QHPKNFHJLOKECCHIYSYBIWLQ5BFZVRALHTVSSLA5FRQHJ54UYOJEDKV2RJLHCI7U2BECRRWDYG4",
+				"supportedInterfaces": {}
+			},
+			"apiEndpoint": "https://api.eu.amazonalexa.com",
+			"apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5ldS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLmQyNzUzYTkxLWRmMzktNDNhYS05ZTQ2LTkyOTkwOThmMjY0MSIsImV4cCI6MTY1NDY4NTQ3MywiaWF0IjoxNjU0Njg1MTczLCJuYmYiOjE2NTQ2ODUxNzMsInByaXZhdGVDbGFpbXMiOnsiY29udGV4dCI6IkFBQUFBQUFBQVFCWDVEUnN4UDcvUVJNd09wOHJKSzF1S3dFQUFBQUFBQUNWTzRYVE5pY2RmbDBSZFJZemx2cXIvb0k3Y0pEMG1lZVdBdzVpKzRPR2ltbkZqdjB1ZHBaZUwxRkdGV2k5WERFc29YUmFadWFmeHRNcGh5VmIxcGhRVzd4TWpNRU05d2wxbi9LaDJwU0xQUVg5L0MrK2grR2JhRktCKzBFcnpQcGZDQklRbWpJVG9KeGZzYWYrRlE1SkZydWFKb04yWFhZczlsbGJjNUg2TU5CYUZMZnJmRXNLWDRCR21IVEJUcXcrb01KV1FpaEhwaCtKL1U4YzMzV0hCM3BqTi9OaDFPTmMzMXZxYXBkZHN5OC9FOXJ1WHd0SFFzWVlHa2lIRmRtMHR3Qk12djhoVXphRVYyYzgzbXh3WWxPd0h6TVhTRFNlVlo5KzkzTHI2TGo3ZmhQQTVjN25Sa3NJQ283bjNGNHNCeThZbS9jRG1reExyRlMwL2kwOUN3QWVLaGRJTzBVeWhjdVhQWlZCQzY0ZkdvRnpzV2VFOTdmYS9HTURNdkppYWxkOWJ2Nlp2NzBCc2c9PSIsImNvbnNlbnRUb2tlbiI6bnVsbCwiZGV2aWNlSWQiOiJhbXpuMS5hc2suZGV2aWNlLkFHMlNVRDIyQlBaRzdWUDI0Uk9SMkZCREY3T0wyT1FZSkFWNkFSWE83MzZUWkdTVjVFNElBUlhNT0o2V0dYUkNQQVU1WUlDR1BUTFZBV0lTTExVVDdPQUdOTE1FMkYySVhMT1VYNkJOWDVRSFBLTkZISkxPS0VDQ0hJWVNZQklXTFE1QkZaVlJBTEhUVlNTTEE1RlJRSEo1NFVZT0pFREtWMlJKTEhDSTdVMkJFQ1JSV0RZRzQiLCJ1c2VySWQiOiJhbXpuMS5hc2suYWNjb3VudC5BRzVGMjJZSEVNVzU3WkdRSElFQUlDM0pVUU8yQU9KR1c0WkxaNEtSRUxPQUY0WEVKSk1TN1dZU1FaVFVQN0VLNEtTM0pPU0VYNk5PM1FST083NUVLN1VFTENURUxHU0xDUjI3V1VJN0xQNjVKTENNUUJPWkpZNEFWNEhXN0s1WUQ1RFdJQ0JQTjZTMzVJSlpUUEhaWkdFQVpNTUFGNFdWNUdLMlNaR1ZOQ0tTNTJRVkNWUE1MSTdJUVJHVjVHSkxLWUVaRU5YWDY3TUVVQkEifX0.DVTA-d_1wmNdq6hlg5gwDhZbJlLVOdj7GUS_LsJmh-AIdfGLqSpLhDb3bdyVS3VpdA7QvdjoQcXcnIOCb_BDgqOxocVYD0nvnnoGBmw2Jh9FFRktZYW1WpE0WSBXeWX4nivMD8co9PHXmGbv-JI2o8fuQzOOkY2lsewYFYKKtGUOKsoK2pe2wR8pPMDE6vzWUQZPYwpvb2iKJ11DU2X-OgCggcE8r2YNMggHSug1R3ERhiVRSPfkXnbm7e610_2lhNRQSfeBMOt4sE6X-4toWGxWGD32Py8DXWGe1JP_bQ2dxLdihAuSYgb2QMPYJrJXx74J5lHyb5IBjJT3kfoGwg"
+		}
+	},
+	"request": {
+		"type": "IntentRequest",
+		"requestId": "amzn1.echo-api.request.73a8cda9-60be-49f3-82f6-67181f99dc19",
+		"locale": "en-GB",
+		"timestamp": "2022-06-08T10:46:13Z",
+		"intent": {
+			"name": "FindShow",
+			"confirmationStatus": "NONE",
+			"slots": {
+				"showName": {
+					"name": "showName",
+					"value": "ask media server if fight club",
+					"resolutions": {
+						"resolutionsPerAuthority": [
+							{
+								"authority": "AlexaEntities",
+								"status": {
+									"code": "ER_SUCCESS_NO_MATCH"
+								}
+							}
+						]
+					},
+					"confirmationStatus": "NONE",
+					"source": "USER",
+					"slotValue": {
+						"type": "Simple",
+						"value": "ask media server if fight club",
+						"resolutions": {
+							"resolutionsPerAuthority": [
+								{
+									"authority": "AlexaEntities",
+									"status": {
+										"code": "ER_SUCCESS_NO_MATCH"
+									}
+								}
+							]
+						}
+					}
+				}
+			}
+		}
+	}
+}

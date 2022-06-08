@@ -18,11 +18,11 @@
       "slots": {
         "movieName": {
           "name": "movieName",
-          "value": "the godfather"
+          "value": "encanto"
         },
         "releaseDate": {
           "name": "releaseDate",
-          "value": "1972"
+          "value": "2021"
         }
       }
     }

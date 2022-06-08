@@ -1,4 +1,4 @@
-import Alexa from 'alexa-app';
+const Alexa = require('ask-sdk-core');
 import assert from 'assert';
 import merge from 'deepmerge';
 import sinon from 'sinon';

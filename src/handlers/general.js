@@ -4,56 +4,61 @@ import buildCard from '../lib/buildCard';
 import buildReprompt from '../lib/buildReprompt';
 import getArtwork from '../lib/getArtwork';
 
+import * as Alexa from 'ask-sdk';
+
 import {
   CANCEL_RESPONSE,
   HELP_RESPONSE,
   WELCOME_DESCRIPTION
 } from '../responses/general';
 
-export function handleLaunchIntent(req, resp) {
-  return Promise.resolve(
-    resp
-    .say(WELCOME_DESCRIPTION())
-    .say(HELP_RESPONSE())
-  );
+export function handleLaunchIntent(req) {
+  return req.responseBuilder
+    .speak(WELCOME_DESCRIPTION() + " " + HELP_RESPONSE())
+    .getResponse();
 }
 
-export function handleYesIntent(req, resp) {
-  if (!req.hasSession()) {
+export function handleYesIntent(req) {
+  if (Alexa.isNewSession(req.requestEnvelope)) {
     throw new Error('No session data in yesAction.');
   }
 
-  const session = req.getSession();
-  const promptData = session.get('promptData');
+  const responseSpeech = "You said yes";
+  return req.responseBuilder
+    .speak(responseSpeech)
+    .getResponse();
 
-  if (!promptData) {
-    throw new Error('Got a AMAZON.YesIntent but no promptData. Ending session.');
-  }
-  else if (promptData.yesAction === 'addMedia') {
-    const api = getProvider(promptData.providerType);
-    const [result] = promptData.searchResults;
+  // const session = req.getSession();
+  // const promptData = session.get('promptData');
 
-    return api.add(result).then(() => {
-      if (!result) {
-        return null;
-      }
+  // if (!promptData) {
+  //   throw new Error('Got a AMAZON.YesIntent but no promptData. Ending session.');
+  // }
+  // else if (promptData.yesAction === 'addMedia') {
+  //   const api = getProvider(promptData.providerType);
+  //   const [result] = promptData.searchResults;
 
-      return getArtwork(result);
-    }).then((artwork) => {
-      if (artwork) {
-        let title = result.title;
-        if (promptData.providerType === PROVIDER_TYPE.MOVIES) {
-          title += ` (${result.year})`;
-        }
+  //   return api.add(result).then(() => {
+  //     if (!result) {
+  //       return null;
+  //     }
 
-        resp.card(buildCard(title, artwork, promptData.yesResponse));
-      }
+  //     return getArtwork(result);
+  //   }).then((artwork) => {
+  //     if (artwork) {
+  //       let title = result.title;
+  //       if (promptData.providerType === PROVIDER_TYPE.MOVIES) {
+  //         title += ` (${result.year})`;
+  //       }
 
-      return resp.say(promptData.yesResponse);
-    });
-  }
+  //       resp.card(buildCard(title, artwork, promptData.yesResponse));
+  //     }
 
-  throw new Error('Got an unexpected yesAction. PromptData:', promptData);
+  //     return resp.say(promptData.yesResponse);
+  //   });
+  // }
+
+  // throw new Error('Got an unexpected yesAction. PromptData:', promptData);
 }
 
 export function handleNoIntent(req, resp) {
