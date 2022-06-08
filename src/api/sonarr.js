@@ -2,7 +2,7 @@ import config from 'config';
 import SonarrAPI from 'sonarr-api';
 
 import serverConfig from './config';
-import {PROVIDER_TYPE} from './getProvider';
+import { PROVIDER_TYPE } from './getProvider';
 
 /**
  * @typedef {Object} MediaResult
@@ -35,7 +35,7 @@ export default function sonarr() {
 export async function list(title) {
   await loadQualityProfiles();
 
-  const resp = await sonarr().get('series');
+  const resp = await sonarr().get('v3/series');
   const shows = resp.map(mapToMediaResult);
 
   if (title) {
@@ -55,7 +55,7 @@ export async function list(title) {
  */
 export async function search(query) {
   await loadQualityProfiles();
-  const resp = await sonarr().get('series/lookup', {term: query});
+  const resp = await sonarr().get('v3/series/lookup', { term: query });
 
   return resp.map(mapToMediaResult);
 }
@@ -67,26 +67,33 @@ export async function search(query) {
  * @returns {Object} -- sonarr response object
  */
 export async function add(show) {
-  const [rootFolderResp] = await sonarr().get('rootfolder');
+  const [rootFolderResp] = await sonarr().get('v3/rootfolder');
   const preferredQuality = getPreferredQuality();
   const qualities = await loadQualityProfiles();
   const quality = qualities.find((qt) => {
     return qt.name === preferredQuality;
   });
 
-  return await sonarr().post('series', {
+  const req = {
     tvdbId: show.tvdbId,
     title: show.title,
     titleSlug: show.slug,
     images: show.images,
+    seasons: show.seasons,
     qualityProfileId: quality ? quality.id : 1, // Default to 'Any' if no profile set in config
-    rootFolderPath: rootFolderResp.path
-  });
+    profileId: quality ? quality.id : 1, // Default to 'Any' if no profile set in config
+    rootFolderPath: rootFolderResp.path,
+    monitored: true,
+    addOptions: {
+      searchForMissingEpisodes: true
+    }
+  };
+  return await sonarr().post('series', req);
 }
 
 async function loadQualityProfiles() {
   if (!_qualityProfiles) {
-    _qualityProfiles = await sonarr().get('profile');
+    _qualityProfiles = await sonarr().get('v3/qualityprofile');
   }
 
   return _qualityProfiles;
@@ -106,7 +113,8 @@ function mapToMediaResult(show) {
     imdbId: show.imdbId,
     images: show.images,
     status: show.status,
-    quality: quality ? quality.name : ''
+    quality: quality ? quality.name : '',
+    seasons: show.seasons
   };
 }
 

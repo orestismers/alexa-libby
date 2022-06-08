@@ -35,7 +35,8 @@ export default function radarr() {
 export async function list(title) {
   await loadQualityProfiles();
 
-  const resp = await radarr().get('movie');
+  const resp = await radarr().get('v3/movie');
+
   const movies = resp.map(mapToMediaResult);
 
   if (title) {
@@ -55,7 +56,7 @@ export async function list(title) {
  */
 export async function search(query) {
   await loadQualityProfiles();
-  const resp = await radarr().get('movies/lookup', {term: query});
+  const resp = await radarr().get('v3/movie/lookup', {term: query});
 
   return resp.map(mapToMediaResult);
 }
@@ -67,14 +68,14 @@ export async function search(query) {
  * @returns {Object} -- radarr response object
  */
 export async function add(movie) {
-  const [rootFolderResp] = await radarr().get('rootfolder');
+  const [rootFolderResp] = await radarr().get('v3/rootfolder');
   const preferredQuality = getPreferredQuality();
   const qualities = await loadQualityProfiles();
   const quality = qualities.find((qt) => {
     return qt.name === preferredQuality;
   });
 
-  return await radarr().post('movie', {
+  return await radarr().post('v3/movie', {
     tmdbId: movie.tmdbId,
     title: movie.title,
     titleSlug: movie.slug,
@@ -89,7 +90,7 @@ export async function add(movie) {
 
 async function loadQualityProfiles() {
   if (!_qualityProfiles) {
-    _qualityProfiles = await radarr().get('profile');
+    _qualityProfiles = await radarr().get('v3/qualityprofile');
   }
 
   return _qualityProfiles;
